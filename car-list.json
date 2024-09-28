@@ -137,6 +137,7 @@
       "C1",
       "C2",
       "C3",
+      "C3 Aircross",
       "C3 Picasso",
       "C4",
       "C4 Aircross",
@@ -144,9 +145,11 @@
       "C4 Coupé",
       "C4 Grand Picasso",
       "C4 Sedan",
+      "C4 SpaceTourer",
       "C5",
       "C5 Break",
       "C5 Tourer",
+      "C5 X",
       "C6",
       "C8",
       "DS3",
@@ -155,10 +158,11 @@
       "Evasion",
       "Jumper",
       "Jumpy",
-      "Saxo",
       "Nemo",
+      "Saxo",
       "Xantia",
-      "Xsara"
+      "Xsara",
+      "ë-C4"
     ]
   },
   {

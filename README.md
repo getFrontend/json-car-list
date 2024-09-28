@@ -64,6 +64,12 @@ New car models added from 2016 to September 2024.
 - Jogger (2021, crossover)
 - Bigster (planned for 2024, larger SUV)
 
+#### Citroën:
+- C3 Aircross (2017)
+- C4 SpaceTourer (formerly C4 Picasso, updated 2018)
+- C5 X (2021, crossover)
+- ë-C4 (2021, electric vehicle)
+
 ## License
 
 This repository is licensed under the MIT License.
