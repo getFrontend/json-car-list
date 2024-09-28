@@ -78,6 +78,10 @@ New car models added from 2016 to September 2024.
 - Zafira Life (2020, people carrier)
 - Astra Electric (2023, electric version)
 
+#### Alfa Romeo:
+- Giulia (2016)
+- Stelvio (2017)
+
 ## License
 
 This repository is licensed under the MIT License.
