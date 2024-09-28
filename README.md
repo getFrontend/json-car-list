@@ -30,6 +30,16 @@ This repository contains a comprehensive **JSON dataset** of car brands and thei
 
 Contributions are welcome! If you'd like to add more brands or update existing ones, feel free to open a pull request or submit an issue.
 
+## Updates
+
+New car models added from 2016 to September 2024.
+
+#### SEAT:
+
+- Ateca (2016)
+- Arona (2017)
+- Tarraco (2018)
+
 ## License
 
 This repository is licensed under the MIT License.
