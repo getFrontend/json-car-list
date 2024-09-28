@@ -40,6 +40,14 @@ New car models added from 2016 to September 2024.
 - Arona (2017)
 - Tarraco (2018)
 
+#### Renault
+
+- Triber (2019)
+- Arkana (2020)
+- Megane E-Tech (2021, electric)
+- Kiger (2021, compact SUV)
+- Austral (2022)
+
 ## License
 
 This repository is licensed under the MIT License.
