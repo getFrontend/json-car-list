@@ -82,6 +82,22 @@ New car models added from 2016 to September 2024.
 - Giulia (2016)
 - Stelvio (2017)
 
+#### Škoda:
+- Karoq (2017)
+- Kodiaq (2016)
+- Enyaq (2020, electric)
+
+#### Chevrolet:
+- Trax (2016)
+- Malibu (new generation, 2016)
+- Blazer (2019, revived model)
+- Corvette Stingray (2020, new generation)
+
+#### Porsche:
+- Cayenne (2018, updated)
+- Macan (2016, updated)
+- Taycan (2019, electric)
+
 ## License
 
 This repository is licensed under the MIT License.

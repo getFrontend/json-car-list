@@ -228,21 +228,20 @@
   {
     "brand": "Škoda",
     "models": [
-      "Favorit",
-      "Felicia",
       "Citigo",
       "Fabia",
       "Fabia Combi",
       "Fabia Sedan",
-      "Felicia Combi",
+      "Favorit",
+      "Felicia",
+      "Karoq",
+      "Kodiaq",
       "Octavia",
       "Octavia Combi",
       "Roomster",
-      "Yeti",
-      "Rapid",
-      "Rapid Spaceback",
       "Superb",
-      "Superb Combi"
+      "Superb Combi",
+      "Enyaq"
     ]
   },
   {
@@ -250,6 +249,7 @@
     "models": [
       "Alero",
       "Aveo",
+      "Blazer",
       "Camaro",
       "Captiva",
       "Corvette",
@@ -284,12 +284,12 @@
       "911 Turbo",
       "924",
       "944",
-      "997",
       "Boxster",
       "Cayenne",
       "Cayman",
       "Macan",
-      "Panamera"
+      "Panamera",
+      "Taycan"
     ]
   },
   {
