@@ -175,16 +175,20 @@
       "Astra cabrio",
       "Astra caravan",
       "Astra coupé",
+      "Astra Electric",
       "Calibra",
       "Campo",
       "Cascada",
       "Corsa",
+      "Crossland",
       "Frontera",
+      "Grandland",
       "Insignia",
       "Insignia kombi",
       "Kadett",
       "Meriva",
       "Mokka",
+      "Mokka-e",
       "Movano",
       "Omega",
       "Signum",
@@ -192,7 +196,8 @@
       "Vectra Caravan",
       "Vivaro",
       "Vivaro Kombi",
-      "Zafira"
+      "Zafira",
+      "Zafira Life"
     ]
   },
   {

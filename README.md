@@ -70,6 +70,14 @@ New car models added from 2016 to September 2024.
 - C5 X (2021, crossover)
 - ë-C4 (2021, electric vehicle)
 
+#### Opel:
+- Crossland (2017)
+- Grandland (2017, updated 2021)
+- Mokka (2020, new generation)
+- Mokka-e (2020, electric SUV)
+- Zafira Life (2020, people carrier)
+- Astra Electric (2023, electric version)
+
 ## License
 
 This repository is licensed under the MIT License.
