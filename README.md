@@ -48,6 +48,17 @@ New car models added from 2016 to September 2024.
 - Kiger (2021, compact SUV)
 - Austral (2022)
 
+#### Peugeot:
+
+- 208 (new generation 2019)
+- e-208 (2019, electric)
+- e-2008 (2019, electric SUV)
+- 3008 Hybrid (2019, plug-in hybrid)
+- 508 PSE (2020, high-performance model)
+- 308 Hybrid (2021)
+- 408 (2022, SUV-Coupé)
+- 5008 Hybrid (2022)
+
 ## License
 
 This repository is licensed under the MIT License.
