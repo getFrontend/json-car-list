@@ -59,6 +59,11 @@ New car models added from 2016 to September 2024.
 - 408 (2022, SUV-Coupé)
 - 5008 Hybrid (2022)
 
+#### Dacia:
+- Spring (2021, electric vehicle)
+- Jogger (2021, crossover)
+- Bigster (planned for 2024, larger SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
