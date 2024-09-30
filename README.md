@@ -98,6 +98,11 @@ New car models added from 2016 to September 2024.
 - Macan (2016, updated)
 - Taycan (2019, electric)
 
+#### Subaru:
+- XV (2017, new generation)
+- Levorg (2020, new generation)
+- BRZ (2021, new generation)
+
 ## License
 
 This repository is licensed under the MIT License.
