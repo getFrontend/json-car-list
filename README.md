@@ -103,6 +103,10 @@ New car models added from 2016 to September 2024.
 - Levorg (2020, new generation)
 - BRZ (2021, new generation)
 
+#### Mazda:
+- CX-30 (2019)
+- CX-60 (2022, plug-in hybrid)
+
 ## License
 
 This repository is licensed under the MIT License.
