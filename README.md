@@ -107,6 +107,11 @@ New car models added from 2016 to September 2024.
 - CX-30 (2019)
 - CX-60 (2022, plug-in hybrid)
 
+#### Mitsubishi:
+- Eclipse Cross (2017)
+- Pajero Sport (2019, updated)
+- Outlander (2021, new generation)
+
 ## License
 
 This repository is licensed under the MIT License.
