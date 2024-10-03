@@ -112,6 +112,10 @@ New car models added from 2016 to September 2024.
 - Pajero Sport (2019, updated)
 - Outlander (2021, new generation)
 
+#### Lexus:
+- UX (2018)
+- NX (new generation, 2021)
+
 ## License
 
 This repository is licensed under the MIT License.
