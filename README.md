@@ -116,6 +116,11 @@ New car models added from 2016 to September 2024.
 - UX (2018)
 - NX (new generation, 2021)
 
+#### Toyota:
+- Yaris Cross (2020)
+- Supra (2019, revived model)
+- Highlander (2020, new generation)
+
 ## License
 
 This repository is licensed under the MIT License.
