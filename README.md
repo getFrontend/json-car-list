@@ -121,6 +121,11 @@ New car models added from 2016 to September 2024.
 - Supra (2019, revived model)
 - Highlander (2020, new generation)
 
+#### BMW:
+- X2 (2018)
+- iX3 (2020, electric SUV)
+- iX (2021, electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
