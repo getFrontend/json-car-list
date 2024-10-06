@@ -126,6 +126,11 @@ New car models added from 2016 to September 2024.
 - iX3 (2020, electric SUV)
 - iX (2021, electric SUV)
 
+#### Volkswagen:
+- ID.3 (2020, electric)
+- ID.4 (2021, electric SUV)
+- ID.5 (2021, electric SUV-Coupé)
+
 ## License
 
 This repository is licensed under the MIT License.
