@@ -131,6 +131,11 @@ New car models added from 2016 to September 2024.
 - ID.4 (2021, electric SUV)
 - ID.5 (2021, electric SUV-Coupé)
 
+#### Suzuki:
+- Ignis (new generation, 2016)
+- Swift (new generation, 2017)
+- Jimny (new generation, 2018)
+
 ## License
 
 This repository is licensed under the MIT License.
