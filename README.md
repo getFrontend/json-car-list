@@ -136,6 +136,12 @@ New car models added from 2016 to September 2024.
 - Swift (new generation, 2017)
 - Jimny (new generation, 2018)
 
+#### Mercedes-Benz:
+- GLB (2019)
+- EQC (2019, electric)
+- GLA (2020, new generation)
+- EQS (2021, electric luxury sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
