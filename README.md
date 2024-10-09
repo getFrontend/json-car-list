@@ -142,6 +142,9 @@ New car models added from 2016 to September 2024.
 - GLA (2020, new generation)
 - EQS (2021, electric luxury sedan)
 
+#### Audi:
+- Q4 e-tron (2021, electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
