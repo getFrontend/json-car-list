@@ -145,6 +145,11 @@ New car models added from 2016 to September 2024.
 #### Audi:
 - Q4 e-tron (2021, electric SUV)
 
+#### Volvo:
+- XC40 (2017)
+- V60 (2018, new generation)
+- S60 (2018, new generation)
+
 ## License
 
 This repository is licensed under the MIT License.
