@@ -150,6 +150,11 @@ New car models added from 2016 to September 2024.
 - V60 (2018, new generation)
 - S60 (2018, new generation)
 
+#### Fiat:
+- 500X (2016, updated)
+- Fullback (2016, pickup truck)
+- Tipo (new generation, 2016)
+
 ## License
 
 This repository is licensed under the MIT License.
