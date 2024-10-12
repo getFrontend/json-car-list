@@ -155,6 +155,13 @@ New car models added from 2016 to September 2024.
 - Fullback (2016, pickup truck)
 - Tipo (new generation, 2016)
 
+#### Ford:
+- Fiesta (new generation, 2017)
+- Focus (new generation, 2018)
+- Puma (2019, crossover)
+- Kuga (new generation, 2020)
+- Explorer (2020, new generation)
+
 ## License
 
 This repository is licensed under the MIT License.
