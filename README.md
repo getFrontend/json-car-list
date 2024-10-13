@@ -162,6 +162,12 @@ New car models added from 2016 to September 2024.
 - Kuga (new generation, 2020)
 - Explorer (2020, new generation)
 
+#### Hyundai:
+- Ioniq (2016, hybrid/electric)
+- Kona (2017, crossover)
+- Santa Fe (new generation, 2018)
+- Tucson (new generation, 2020)
+
 ## License
 
 This repository is licensed under the MIT License.

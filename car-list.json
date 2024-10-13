@@ -835,7 +835,6 @@
     "models": [
       "Accent",
       "Atos",
-      "Atos Prime",
       "Coupé",
       "Elantra",
       "Galloper",
@@ -844,26 +843,24 @@
       "Grandeur",
       "H 350",
       "H1",
-      "H1 Bus",
-      "H1 Van",
-      "H200",
       "i10",
       "i20",
       "i30",
       "i30 CW",
       "i40",
       "i40 CW",
+      "Ioniq",
       "ix20",
       "ix35",
-      "ix55",
+      "Kona",
       "Lantra",
       "Matrix",
       "Santa Fe",
       "Sonata",
       "Terracan",
-      "Trajet",
       "Tucson",
-      "Veloster"
+      "Veloster",
+      "XG 30"
     ]
   },
   {
