@@ -168,6 +168,12 @@ New car models added from 2016 to September 2024.
 - Santa Fe (new generation, 2018)
 - Tucson (new generation, 2020)
 
+#### Honda:
+- CR-V (new generation, 2017)
+- Jazz (new generation, 2020)
+- HR-V (new generation, 2021)
+- Civic (new generation, 2021)
+
 ## License
 
 This repository is licensed under the MIT License.

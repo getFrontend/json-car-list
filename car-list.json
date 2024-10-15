@@ -297,23 +297,28 @@
     "models": [
       "Accord",
       "Accord Coupé",
-      "Accord Tourer",
       "City",
       "Civic",
       "Civic Aerodeck",
       "Civic Coupé",
       "Civic Tourer",
       "Civic Type R",
+      "Concerto",
       "CR-V",
-      "CR-X",
       "CR-Z",
+      "Element",
       "FR-V",
       "HR-V",
       "Insight",
       "Integra",
       "Jazz",
       "Legend",
-      "Prelude"
+      "Logo",
+      "NSX",
+      "Prelude",
+      "S2000",
+      "Shuttle",
+      "Stream"
     ]
   },
   {
