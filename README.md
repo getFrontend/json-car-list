@@ -174,6 +174,12 @@ New car models added from 2016 to September 2024.
 - HR-V (new generation, 2021)
 - Civic (new generation, 2021)
 
+#### Jaguar:
+- XF (new generation, 2016)
+- E-Pace (2017, SUV)
+- I-Pace (2018, electric SUV)
+- F-Type (updated, 2020)
+
 ## License
 
 This repository is licensed under the MIT License.
