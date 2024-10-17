@@ -180,6 +180,11 @@ New car models added from 2016 to September 2024.
 - I-Pace (2018, electric SUV)
 - F-Type (updated, 2020)
 
+#### Jeep:
+- Compass (new generation, 2017)
+- Grand Cherokee (new generation, 2021)
+- Wrangler (new generation, 2018)
+
 ## License
 
 This repository is licensed under the MIT License.
