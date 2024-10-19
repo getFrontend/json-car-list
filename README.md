@@ -185,6 +185,13 @@ New car models added from 2016 to September 2024.
 - Grand Cherokee (new generation, 2021)
 - Wrangler (new generation, 2018)
 
+#### Kia:
+- Niro (2016, hybrid)
+- Stinger (2017)
+- Ceed (new generation, 2018)
+- Seltos (2019)
+- Sorento (new generation, 2020)
+
 ## License
 
 This repository is licensed under the MIT License.
