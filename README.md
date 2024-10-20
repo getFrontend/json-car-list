@@ -192,6 +192,11 @@ New car models added from 2016 to September 2024.
 - Seltos (2019)
 - Sorento (new generation, 2020)
 
+#### Land Rover:
+- Range Rover Velar (2017)
+- Defender (2020, new generation)
+- Discovery (2021, updated)
+
 ## License
 
 This repository is licensed under the MIT License.
