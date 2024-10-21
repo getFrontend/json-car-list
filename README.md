@@ -197,6 +197,7 @@ New car models added from 2016 to September 2024.
 - Defender (2020, new generation)
 - Discovery (2021, updated)
 
+
 ## License
 
 This repository is licensed under the MIT License.
