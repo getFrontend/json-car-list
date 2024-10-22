@@ -197,6 +197,11 @@ New car models added from 2016 to September 2024.
 - Defender (2020, new generation)
 - Discovery (2021, updated)
 
+#### Nissan:
+- Leaf (new generation, 2017)
+- Juke (new generation, 2019)
+- Qashqai (new generation, 2021)
+- X-Trail (new generation, 2022)
 
 ## License
 
