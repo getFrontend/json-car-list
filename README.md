@@ -203,6 +203,7 @@ New car models added from 2016 to September 2024.
 - Qashqai (new generation, 2021)
 - X-Trail (new generation, 2022)
 
+
 ## License
 
 This repository is licensed under the MIT License.
