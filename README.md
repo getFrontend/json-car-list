@@ -208,6 +208,10 @@ New car models added from 2016 to September 2024.
 - Durango (updated, 2018)
 - RAM 1500 (new generation, 2019)
 
+#### Chrysler:
+- Pacifica (2016, minivan)
+- 300 (updated, 2020)
+
 ## License
 
 This repository is licensed under the MIT License.
