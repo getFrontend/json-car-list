@@ -1055,5 +1055,25 @@
       "Fortwo coupé",
       "Roadster"
     ]
-  }
+  },
+  {
+    "brand": "Cadillac",
+    "models": [
+      "ATS",
+      "BLS",
+      "CT5",
+      "CT6",
+      "CTS",
+      "DeVille",
+      "Eldorado",
+      "Escalade",
+      "Seville",
+      "SRX",
+      "STS",
+      "XT4",
+      "XT5",
+      "XT6",
+      "XTS"
+    ]
+  }  
 ]

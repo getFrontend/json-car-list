@@ -212,6 +212,11 @@ New car models added from 2016 to September 2024.
 - Pacifica (2016, minivan)
 - 300 (updated, 2020)
 
+#### Cadillac:
+- XT4 (2018)
+- XT6 (2019)
+- CT5 (2020)
+
 ## License
 
 This repository is licensed under the MIT License.
