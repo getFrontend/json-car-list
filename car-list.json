@@ -1075,5 +1075,30 @@
       "XT6",
       "XTS"
     ]
-  }  
+  },
+  {
+    "brand": "Ferrari",
+    "models": [
+      "348",
+      "360 Modena",
+      "458 Italia",
+      "488 GTB",
+      "512",
+      "550 Maranello",
+      "575M Maranello",
+      "599 GTB Fiorano",
+      "612 Scaglietti",
+      "812 Superfast",
+      "California",
+      "Enzo",
+      "F12berlinetta",
+      "F355",
+      "F430",
+      "FF",
+      "LaFerrari",
+      "Portofino",
+      "Roma",
+      "SF90 Stradale"
+    ]
+  }
 ]

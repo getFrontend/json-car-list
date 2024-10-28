@@ -217,6 +217,12 @@ New car models added from 2016 to September 2024.
 - XT6 (2019)
 - CT5 (2020)
 
+#### Ferrari:
+- 812 Superfast (2017)
+- Portofino (2018)
+- Roma (2019)
+- SF90 Stradale (2020, plug-in hybrid)
+
 ## License
 
 This repository is licensed under the MIT License.
