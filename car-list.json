@@ -1100,5 +1100,18 @@
       "Roma",
       "SF90 Stradale"
     ]
-  }
+  },
+  {
+    "brand": "Maserati",
+    "models": [
+      "3200 GT",
+      "4200",
+      "Ghibli",
+      "GranCabrio",
+      "GranTurismo",
+      "Levante",
+      "Quattroporte",
+      "MC20"
+    ]
+  }  
 ]

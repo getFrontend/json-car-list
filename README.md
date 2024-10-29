@@ -223,6 +223,11 @@ New car models added from 2016 to September 2024.
 - Roma (2019)
 - SF90 Stradale (2020, plug-in hybrid)
 
+#### Maserati:
+- Levante (2016, SUV)
+- Ghibli (updated, 2020)
+- MC20 (2020, sports car)
+
 ## License
 
 This repository is licensed under the MIT License.
