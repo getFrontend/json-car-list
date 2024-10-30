@@ -228,6 +228,12 @@ New car models added from 2016 to September 2024.
 - Ghibli (updated, 2020)
 - MC20 (2020, sports car)
 
+#### Infiniti:
+- QX30 (2016, compact SUV)
+- Q50 (updated, 2017)
+- Q60 (2017)
+- QX50 (2018, redesigned)
+
 ## License
 
 This repository is licensed under the MIT License.

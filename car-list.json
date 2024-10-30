@@ -1113,5 +1113,24 @@
       "Quattroporte",
       "MC20"
     ]
+  },
+  {
+    "brand": "Infiniti",
+    "models": [
+      "EX",
+      "FX",
+      "G",
+      "JX",
+      "M",
+      "Q30",
+      "Q50",
+      "Q60",
+      "Q70",
+      "QX30",
+      "QX50",
+      "QX60",
+      "QX70",
+      "QX80"
+    ]
   }  
 ]
