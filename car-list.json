@@ -1132,5 +1132,20 @@
       "QX70",
       "QX80"
     ]
-  }  
+  },
+  {
+    "brand": "Bentley",
+    "models": [
+      "Arnage",
+      "Azure",
+      "Bentayga",
+      "Brooklands",
+      "Continental",
+      "Continental Flying Spur",
+      "Continental GT",
+      "Continental GTC",
+      "Flying Spur",
+      "Mulsanne"
+    ]
+  }   
 ]

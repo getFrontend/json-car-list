@@ -234,6 +234,11 @@ New car models added from 2016 to September 2024.
 - Q60 (2017)
 - QX50 (2018, redesigned)
 
+#### Bentley:
+- Bentayga (2016, luxury SUV)
+- Continental GT (new generation, 2018)
+- Flying Spur (new generation, 2019)
+
 ## License
 
 This repository is licensed under the MIT License.
