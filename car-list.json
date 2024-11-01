@@ -1147,5 +1147,15 @@
       "Flying Spur",
       "Mulsanne"
     ]
-  }   
+  },
+  {
+    "brand": "Rolls-Royce",
+    "models": [
+      "Cullinan",
+      "Dawn",
+      "Ghost",
+      "Phantom",
+      "Wraith"
+    ]
+  } 
 ]

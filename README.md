@@ -239,6 +239,11 @@ New car models added from 2016 to September 2024.
 - Continental GT (new generation, 2018)
 - Flying Spur (new generation, 2019)
 
+#### Rolls-Royce:
+- Phantom (new generation, 2017)
+- Cullinan (2018, SUV)
+- Ghost (new generation, 2020)
+
 ## License
 
 This repository is licensed under the MIT License.
