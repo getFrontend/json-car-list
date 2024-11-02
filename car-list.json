@@ -1157,5 +1157,19 @@
       "Phantom",
       "Wraith"
     ]
-  } 
+  },
+  {
+    "brand": "Aston Martin",
+    "models": [
+      "DB11",
+      "DB9",
+      "DBS",
+      "Rapide",
+      "V12 Vanquish",
+      "V8 Vantage",
+      "Vanquish",
+      "Vantage",
+      "Virage"
+    ]
+  }
 ]

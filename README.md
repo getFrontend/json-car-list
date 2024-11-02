@@ -244,6 +244,11 @@ New car models added from 2016 to September 2024.
 - Cullinan (2018, SUV)
 - Ghost (new generation, 2020)
 
+#### Aston Martin:
+- DB11 (2016)
+- Vantage (new generation, 2018)
+- DBS Superleggera (2018)
+
 ## License
 
 This repository is licensed under the MIT License.
