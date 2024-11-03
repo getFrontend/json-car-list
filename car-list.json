@@ -1171,5 +1171,15 @@
       "Vantage",
       "Virage"
     ]
+  },
+  {
+    "brand": "Genesis",
+    "models": [
+      "G70",
+      "G80",
+      "G90",
+      "GV70",
+      "GV80"
+    ]
   }
 ]

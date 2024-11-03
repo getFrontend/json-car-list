@@ -249,6 +249,11 @@ New car models added from 2016 to September 2024.
 - Vantage (new generation, 2018)
 - DBS Superleggera (2018)
 
+#### Genesis:
+- G70 (2017)
+- GV80 (2020, SUV)
+- GV70 (2021, compact SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
