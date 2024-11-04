@@ -254,6 +254,17 @@ New car models added from 2016 to September 2024.
 - GV80 (2020, SUV)
 - GV70 (2021, compact SUV)
 
+#### Bugatti:
+- Chiron (2016)
+- Divo (2018)
+
+#### McLaren:
+- 720S (2017)
+- Senna (2018)
+- GT (2019)
+- Speedtail (2019)
+- 765LT (2020)
+
 ## License
 
 This repository is licensed under the MIT License.

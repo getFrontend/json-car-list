@@ -1181,5 +1181,30 @@
       "GV70",
       "GV80"
     ]
+  },
+  {
+    "brand": "Bugatti",
+    "models": [
+      "Chiron",
+      "Divo",
+      "Veyron"
+    ]
+  },
+  {
+    "brand": "McLaren",
+    "models": [
+      "540C",
+      "570GT",
+      "570S",
+      "600LT",
+      "650S",
+      "675LT",
+      "720S",
+      "765LT",
+      "GT",
+      "P1",
+      "Senna",
+      "Speedtail"
+    ]
   }
 ]
