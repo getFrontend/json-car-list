@@ -265,6 +265,12 @@ New car models added from 2016 to September 2024.
 - Speedtail (2019)
 - 765LT (2020)
 
+#### Tesla:
+- Model 3 (2017)
+- Model Y (2020)
+- Cybertruck (2024)
+- Roadster (planned for 2025)
+
 ## License
 
 This repository is licensed under the MIT License.
