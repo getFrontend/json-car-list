@@ -1217,5 +1217,36 @@
       "Model Y",
       "Roadster"
     ]
-  } 
+  },
+  {
+    "brand": "Koenigsegg",
+    "models": [
+      "Agera",
+      "CC8S",
+      "CCX",
+      "Gemera",
+      "Jesko",
+      "One:1",
+      "Regera"
+    ]
+  },
+  {
+    "brand": "Pagani",
+    "models": [
+      "Huayra",
+      "Huayra BC",
+      "Huayra Imola",
+      "Huayra Roadster",
+      "Zonda"
+    ]
+  },
+  {
+    "brand": "Alpine",
+    "models": [
+      "A110",
+      "A110 S",
+      "A110 GT",
+      "A110 R"
+    ]
+  }  
 ]

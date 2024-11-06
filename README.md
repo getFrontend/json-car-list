@@ -271,6 +271,22 @@ New car models added from 2016 to September 2024.
 - Cybertruck (2024)
 - Roadster (planned for 2025)
 
+#### Koenigsegg:
+- Regera (2016, hybrid hypercar)
+- Jesko (2019)
+- Gemera (2020, 4-seater hybrid)
+
+#### Pagani:
+- Huayra BC (2016)
+- Huayra Roadster (2017)
+- Huayra Imola (2020)
+
+#### Alpine:
+- A110 (2017, sports car)
+- A110 S (2019, performance variant)
+- A110 GT (2022, grand touring variant)
+- A110 R (2022, track-focused variant)
+
 ## License
 
 This repository is licensed under the MIT License.
