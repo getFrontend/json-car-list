@@ -1248,5 +1248,16 @@
       "A110 GT",
       "A110 R"
     ]
-  }  
+  },
+  {
+    "brand": "Lancia",
+    "models": [
+      "Delta",
+      "Lybra",
+      "Musa",
+      "Phedra",
+      "Thesis",
+      "Ypsilon"
+    ]
+  }
 ]

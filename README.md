@@ -287,6 +287,9 @@ New car models added from 2016 to September 2024.
 - A110 GT (2022, grand touring variant)
 - A110 R (2022, track-focused variant)
 
+#### Lancia:
+- Ypsilon (updated, 2021)
+
 ## License
 
 This repository is licensed under the MIT License.
