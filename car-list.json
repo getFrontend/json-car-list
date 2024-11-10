@@ -1259,5 +1259,22 @@
       "Thesis",
       "Ypsilon"
     ]
-  }
+  },
+  {
+    "brand": "Chery",
+    "models": [
+      "Arrizo 5",
+      "Arrizo 5 Plus",
+      "Arrizo 7",
+      "Arrizo 8",
+      "E5",
+      "QQ",
+      "Tiggo 2",
+      "Tiggo 3",
+      "Tiggo 4",
+      "Tiggo 5",
+      "Tiggo 7",
+      "Tiggo 8"
+    ]
+  }  
 ]
