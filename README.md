@@ -294,7 +294,14 @@ New car models added from 2016 to September 2024.
 - Tiggo 7 (2016, compact SUV)
 - Tiggo 8 (2018, mid-size SUV)
 - Arrizo 5 Plus (2021, sedan)
-- Arrizo 8 (2022, large sedan)
+- Arrizo 8 (2022, large sedan)'
+
+#### Geely:
+- Atlas (2016, compact SUV)
+- Binrui (2018, sedan)
+- Icon (2020, compact crossover)
+- Okavango (2020, mid-size SUV)
+- Tugella (2021, coupe SUV)
 
 ## License
 
