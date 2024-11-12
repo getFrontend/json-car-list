@@ -836,7 +836,9 @@
     "models": [
       "Accent",
       "Atos",
+      "Azera",
       "Coupé",
+      "Creta",
       "Elantra",
       "Galloper",
       "Genesis",
@@ -856,11 +858,14 @@
       "Kona",
       "Lantra",
       "Matrix",
+      "Palisade",
       "Santa Fe",
       "Sonata",
+      "Staria",
       "Terracan",
       "Tucson",
       "Veloster",
+      "Venue",
       "XG 30"
     ]
   },
