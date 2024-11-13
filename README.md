@@ -304,6 +304,15 @@ New car models added from 2016 to September 2024.
 - Okavango (2020, mid-size SUV)
 - Tugella (2021, coupe SUV)
 
+#### Haval:
+- H6 (new generation, 2017, compact SUV)
+- F7 (2018, compact SUV)
+- F7x (2019, coupe SUV)
+- Big Dog (2020, off-road SUV)
+- Dargo (2021, off-road SUV variant)
+- Jolion (2021, compact SUV)
+- Chulian (2021, crossover)
+
 ## License
 
 This repository is licensed under the MIT License.
