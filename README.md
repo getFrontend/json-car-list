@@ -313,6 +313,11 @@ New car models added from 2016 to September 2024.
 - Jolion (2021, compact SUV)
 - Chulian (2021, crossover)
 
+#### BYD:
+- Han (2020, electric sedan)
+- Dolphin (2021, compact electric hatchback)
+- Seal (2022, electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.

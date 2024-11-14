@@ -1309,5 +1309,17 @@
       "H9",
       "Jolion"
     ]
-  }  
+  },
+  {
+    "brand": "BYD",
+    "models": [
+      "Dolphin",
+      "Han",
+      "Qin",
+      "Seal",
+      "Song",
+      "Tang",
+      "Yuan"
+    ]
+  }
 ]
