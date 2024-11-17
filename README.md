@@ -318,6 +318,12 @@ New car models added from 2016 to September 2024.
 - Dolphin (2021, compact electric hatchback)
 - Seal (2022, electric sedan)
 
+#### Zotye:
+- T300 (2017, compact SUV)
+- T700 (2017, luxury SUV)
+- T500 (2018, mid-size SUV)
+- T800 (2018, full-size SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
