@@ -1333,5 +1333,18 @@
       "Z100",
       "Z500"
     ]
-  }
+  },
+  {
+    "brand": "Great Wall",
+    "models": [
+      "C30",
+      "C50",
+      "Hover",
+      "Poer",
+      "Steed 5",
+      "Tank 300",
+      "Tank 500",
+      "Wingle 7"
+    ]
+  }  
 ]

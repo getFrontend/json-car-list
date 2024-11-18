@@ -324,6 +324,11 @@ New car models added from 2016 to September 2024.
 - T500 (2018, mid-size SUV)
 - T800 (2018, full-size SUV)
 
+#### Great Wall:
+- Poer (2019, pickup truck)
+- Tank 300 (2020, off-road SUV)
+- Tank 500 (2021, luxury SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
