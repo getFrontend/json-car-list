@@ -1346,5 +1346,19 @@
       "Tank 500",
       "Wingle 7"
     ]
-  }  
+  },
+  {
+    "brand": "MG",
+    "models": [
+      "3",
+      "5",
+      "6",
+      "Astor",
+      "Cyberster",
+      "Gloster",
+      "Hector",
+      "ZS",
+      "ZS EV"
+    ]
+  }
 ]

@@ -329,6 +329,14 @@ New car models added from 2016 to September 2024.
 - Tank 300 (2020, off-road SUV)
 - Tank 500 (2021, luxury SUV)
 
+#### MG:
+- ZS (2017, compact SUV)
+- ZS EV (2019, electric SUV)
+- Hector (2019, mid-size SUV)
+- Gloster (2020, full-size SUV)
+- Astor (2021, crossover)
+- Cyberster (2023, electric roadster)
+
 ## License
 
 This repository is licensed under the MIT License.
