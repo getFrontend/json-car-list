@@ -1360,5 +1360,19 @@
       "ZS",
       "ZS EV"
     ]
-  }
+  },
+  {
+    "brand": "Tata Motors",
+    "models": [
+      "Altroz",
+      "Harrier",
+      "Hexa",
+      "Nexon",
+      "Punch",
+      "Safari",
+      "Tigor",
+      "Tiago",
+      "Zest"
+    ]
+  }  
 ]

@@ -337,6 +337,13 @@ New car models added from 2016 to September 2024.
 - Astor (2021, crossover)
 - Cyberster (2023, electric roadster)
 
+#### Tata Motors:
+- Hexa (2017, crossover SUV)
+- Nexon (2017, compact SUV)
+- Harrier (2019, mid-size SUV)
+- Altroz (2020, premium hatchback)
+- Punch (2021, micro-SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
