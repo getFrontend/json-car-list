@@ -1374,5 +1374,19 @@
       "Tiago",
       "Zest"
     ]
-  }  
+  },
+  {
+    "brand": "Mahindra",
+    "models": [
+      "Bolero",
+      "KUV100",
+      "Marazzo",
+      "Scorpio",
+      "Thar",
+      "TUV300",
+      "XUV300",
+      "XUV500",
+      "XUV700"
+    ]
+  }
 ]

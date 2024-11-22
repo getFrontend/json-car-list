@@ -344,6 +344,13 @@ New car models added from 2016 to September 2024.
 - Altroz (2020, premium hatchback)
 - Punch (2021, micro-SUV)
 
+#### Mahindra:
+- KUV100 (2016, compact SUV)
+- Marazzo (2018, MPV)
+- XUV300 (2019, subcompact SUV)
+- Thar (new generation, 2020)
+- XUV700 (2021, mid-size SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
