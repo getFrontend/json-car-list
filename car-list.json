@@ -1388,5 +1388,17 @@
       "XUV500",
       "XUV700"
     ]
-  }
+  },
+  {
+    "brand": "Proton",
+    "models": [
+      "Exora",
+      "Iriz",
+      "Persona",
+      "Preve",
+      "Saga",
+      "X50",
+      "X70"
+    ]
+  }  
 ]

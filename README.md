@@ -351,6 +351,10 @@ New car models added from 2016 to September 2024.
 - Thar (new generation, 2020)
 - XUV700 (2021, mid-size SUV)
 
+#### Proton:
+- X70 (2018, mid-size SUV)
+- X50 (2020, compact SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
