@@ -355,6 +355,11 @@ New car models added from 2016 to September 2024.
 - X70 (2018, mid-size SUV)
 - X50 (2020, compact SUV)
 
+#### Perodua:
+- Bezza (2016, compact sedan)
+- Aruz (2019, compact SUV)
+- Axia (new generation, 2023)
+
 ## License
 
 This repository is licensed under the MIT License.
