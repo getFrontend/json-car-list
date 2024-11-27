@@ -360,6 +360,11 @@ New car models added from 2016 to September 2024.
 - Aruz (2019, compact SUV)
 - Axia (new generation, 2023)
 
+#### Daihatsu:
+- Thor (2016, mini MPV)
+- Rocky (2019, compact SUV)
+- Altis (2021, hybrid sedan)
+
 ## License
 
 This repository is licensed under the MIT License.

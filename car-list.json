@@ -1413,5 +1413,21 @@
       "Myvi",
       "Viva"
     ]
-  }
+  },
+  {
+    "brand": "Daihatsu",
+    "models": [
+      "Altis",
+      "Atrai",
+      "Boon",
+      "Copen",
+      "Hijet",
+      "Mira",
+      "Rocky",
+      "Sirion",
+      "Terios",
+      "Thor",
+      "Tanto"
+    ]
+  }  
 ]
