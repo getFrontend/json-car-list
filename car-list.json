@@ -576,6 +576,8 @@
       "Alto",
       "Baleno",
       "Baleno kombi",
+      "Celerio",
+      "Ertiga",
       "Grand Vitara",
       "Grand Vitara XL-7",
       "Ignis",
@@ -587,10 +589,11 @@
       "Swift",
       "SX4",
       "SX4 Sedan",
+      "S-Cross",
       "Vitara",
       "Wagon R+"
     ]
-  },
+  },  
   {
     "brand": "Mercedes-Benz",
     "models": [

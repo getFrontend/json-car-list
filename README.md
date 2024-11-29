@@ -132,9 +132,11 @@ New car models added from 2016 to September 2024.
 - ID.5 (2021, electric SUV-Coupé)
 
 #### Suzuki:
-- Ignis (new generation, 2016)
+- Ignis (2016, compact crossover)
 - Swift (new generation, 2017)
 - Jimny (new generation, 2018)
+- S-Cross (new generation, 2021)
+- Grand Vitara (2022, mid-size SUV)
 
 #### Mercedes-Benz:
 - GLB (2019)
