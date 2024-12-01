@@ -367,6 +367,10 @@ New car models added from 2016 to September 2024.
 - Rocky (2019, compact SUV)
 - Altis (2021, hybrid sedan)
 
+#### Isuzu:
+- MU-X (2017, mid-size SUV)
+- D-Max (new generation, 2020)
+
 ## License
 
 This repository is licensed under the MIT License.

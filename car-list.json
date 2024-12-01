@@ -1432,5 +1432,20 @@
       "Thor",
       "Tanto"
     ]
+  },
+  {
+    "brand": "Isuzu",
+    "models": [
+      "Amigo",
+      "Ascender",
+      "Axiom",
+      "D-Max",
+      "Hombre",
+      "MU-7",
+      "MU-X",
+      "Rodeo",
+      "Trooper",
+      "VehiCROSS"
+    ]
   }  
 ]
