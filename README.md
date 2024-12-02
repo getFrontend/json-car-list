@@ -102,6 +102,7 @@ New car models added from 2016 to September 2024.
 - XV (2017, new generation)
 - Levorg (2020, new generation)
 - BRZ (2021, new generation)
+- WRX (2022, performance sedan)
 
 #### Mazda:
 - CX-30 (2019)
