@@ -1449,5 +1449,21 @@
       "Trooper",
       "VehiCROSS"
     ]
+  },
+  {
+    "brand": "Daewoo",
+    "models": [
+      "Espero",
+      "Kalos",
+      "Lacetti",
+      "Lanos",
+      "Leganza",
+      "Matiz",
+      "Nexia",
+      "Nubira",
+      "Rezzo",
+      "Tacuma",
+      "Tico"
+    ]
   }  
 ]
