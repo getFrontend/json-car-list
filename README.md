@@ -372,6 +372,11 @@ New car models added from 2016 to September 2024.
 - MU-X (2017, mid-size SUV)
 - D-Max (new generation, 2020)
 
+#### Maybach:
+- S580 (2020, luxury sedan)
+- GLS 600 (2020, luxury SUV)
+- S680 (2021, flagship luxury sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
