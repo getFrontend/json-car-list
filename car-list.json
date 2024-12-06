@@ -1495,5 +1495,20 @@
       "S680",
       "GLS 600"
     ]
-  }  
+  },
+  {
+    "brand": "Lamborghini",
+    "models": [
+      "Aventador",
+      "Countach",
+      "Diablo",
+      "Gallardo",
+      "Huracán",
+      "Murciélago",
+      "Reventón",
+      "Sian",
+      "Urus",
+      "Veneno"
+    ]
+  }    
 ]

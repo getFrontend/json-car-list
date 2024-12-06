@@ -377,6 +377,11 @@ New car models added from 2016 to September 2024.
 - GLS 600 (2020, luxury SUV)
 - S680 (2021, flagship luxury sedan)
 
+#### Lamborghini:
+- Urus (2018, luxury SUV)
+- Sian (2020, hybrid supercar)
+- Countach LPI 800-4 (2021, hybrid tribute model)
+
 ## License
 
 This repository is licensed under the MIT License.
