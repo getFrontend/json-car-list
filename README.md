@@ -382,6 +382,10 @@ New car models added from 2016 to September 2024.
 - Sian (2020, hybrid supercar)
 - Countach LPI 800-4 (2021, hybrid tribute model)
 
+#### Lotus:
+- Evija (2019, electric hypercar)
+- Emira (2021, mid-engine sports car)
+
 ## License
 
 This repository is licensed under the MIT License.

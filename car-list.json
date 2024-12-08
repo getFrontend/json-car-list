@@ -1510,5 +1510,16 @@
       "Urus",
       "Veneno"
     ]
+  },
+  {
+    "brand": "Lotus",
+    "models": [
+      "Elan",
+      "Elise",
+      "Emira",
+      "Evija",
+      "Evora",
+      "Exige"
+    ]
   }    
 ]
