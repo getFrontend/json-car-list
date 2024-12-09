@@ -386,6 +386,10 @@ New car models added from 2016 to September 2024.
 - Evija (2019, electric hypercar)
 - Emira (2021, mid-engine sports car)
 
+#### Rivian:
+- R1T (2021, electric pickup truck)
+- R1S (2022, electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

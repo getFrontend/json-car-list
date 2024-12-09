@@ -1521,5 +1521,12 @@
       "Evora",
       "Exige"
     ]
-  }    
+  },
+  {
+    "brand": "Rivian",
+    "models": [
+      "R1S",
+      "R1T"
+    ]
+  }   
 ]
