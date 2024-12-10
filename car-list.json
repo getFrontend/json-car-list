@@ -1528,5 +1528,12 @@
       "R1S",
       "R1T"
     ]
-  }   
+  },
+  {
+    "brand": "Lucid",
+    "models": [
+      "Air",
+      "Gravity"
+    ]
+  }  
 ]

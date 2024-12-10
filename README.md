@@ -390,6 +390,10 @@ New car models added from 2016 to September 2024.
 - R1T (2021, electric pickup truck)
 - R1S (2022, electric SUV)
 
+#### Lucid:
+- Air (2021, luxury electric sedan)
+- Gravity (planned for 2024, luxury electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
