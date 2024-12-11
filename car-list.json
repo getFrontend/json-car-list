@@ -1535,5 +1535,16 @@
       "Air",
       "Gravity"
     ]
+  },
+  {
+    "brand": "Polestar",
+    "models": [
+      "Polestar 1",
+      "Polestar 2",
+      "Polestar 3",
+      "Polestar 4",
+      "Polestar 5",
+      "Polestar 6"
+    ]
   }  
 ]

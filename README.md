@@ -394,6 +394,14 @@ New car models added from 2016 to September 2024.
 - Air (2021, luxury electric sedan)
 - Gravity (planned for 2024, luxury electric SUV)
 
+#### Polestar:
+- Polestar 1 (2017, hybrid coupe)
+- Polestar 2 (2020, electric sedan)
+- Polestar 3 (2023, electric SUV)
+- Polestar 4 (planned for 2024, electric SUV coupé)
+- Polestar 5 (planned for 2025, electric GT)
+- Polestar 6 (planned for 2026, electric roadster)
+
 ## License
 
 This repository is licensed under the MIT License.
