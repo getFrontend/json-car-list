@@ -1546,5 +1546,16 @@
       "Polestar 5",
       "Polestar 6"
     ]
+  },
+  {
+    "brand": "Fisker",
+    "models": [
+      "Alaska",
+      "Atlantic",
+      "Karma",
+      "Ocean",
+      "Pear",
+      "Ronin"
+    ]
   }  
 ]
