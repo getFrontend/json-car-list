@@ -1557,5 +1557,13 @@
       "Pear",
       "Ronin"
     ]
-  }  
+  },
+  {
+    "brand": "Faraday Future",
+    "models": [
+      "FF 91",
+      "FF 81",
+      "FF 71"
+    ]
+  }    
 ]

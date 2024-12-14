@@ -408,6 +408,11 @@ New car models added from 2016 to September 2024.
 - Ronin (planned for 2025, electric GT convertible)
 - Alaska (planned for 2025, electric pickup truck)
 
+#### Faraday Future:
+- FF 91 (2023, luxury electric SUV)
+- FF 81 (planned for 2024, mid-size electric SUV)
+- FF 71 (planned for 2025, compact electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
