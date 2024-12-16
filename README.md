@@ -413,6 +413,13 @@ New car models added from 2016 to September 2024.
 - FF 81 (planned for 2024, mid-size electric SUV)
 - FF 71 (planned for 2025, compact electric SUV)
 
+#### VinFast:
+- VF 8 (2022, mid-size electric SUV)
+- VF 9 (2023, full-size electric SUV)
+- VF 6 (planned for 2024, compact electric SUV)
+- VF 7 (planned for 2024, electric SUV coupé)
+- VF 5 (planned for 2025, subcompact electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
