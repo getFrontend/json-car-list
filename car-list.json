@@ -1575,5 +1575,15 @@
       "VF 8",
       "VF 9"
     ]
-  }  
+  },
+  {
+    "brand": "Xiaomi",
+    "models": [
+      "Kunlun",
+      "MS11",
+      "MS12",
+      "MX11",
+      "SU7"
+    ]
+  }    
 ]

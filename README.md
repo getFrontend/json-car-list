@@ -420,6 +420,14 @@ New car models added from 2016 to September 2024.
 - VF 7 (planned for 2024, electric SUV coupé)
 - VF 5 (planned for 2025, subcompact electric SUV)
 
+#### Xiaomi:
+- SU7 (2024, full-size electric sedan, performance-oriented)
+- MS11 (2024, electric sedan)
+- MX11 (planned for 2025, all-electric SUV)
+- MS12 (planned for 2025, electric SUV)
+- Kunlun (planned for 2026, range-extended electric SUV)
+
+
 ## License
 
 This repository is licensed under the MIT License.
