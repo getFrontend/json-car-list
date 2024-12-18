@@ -427,6 +427,13 @@ New car models added from 2016 to September 2024.
 - MS12 (planned for 2025, electric SUV)
 - Kunlun (planned for 2026, range-extended electric SUV)
 
+#### Baojun:
+- E100 (2017, compact electric car)
+- E200 (2018, compact electric car)
+- RS-3 (2019, subcompact SUV)
+- E300 (2020, electric microcar)
+- KiWi EV (2021, stylish urban electric car)
+- RS-7 (2021, mid-size SUV)
 
 ## License
 
