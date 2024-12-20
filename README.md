@@ -435,6 +435,12 @@ New car models added from 2016 to September 2024.
 - KiWi EV (2021, stylish urban electric car)
 - RS-7 (2021, mid-size SUV)
 
+#### Wuling:
+- Hongguang Mini EV (2020, ultra-compact electric car)
+- Victory (2020, MPV)
+- Air EV (2022, compact electric car)
+- Alvez (2023, compact SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

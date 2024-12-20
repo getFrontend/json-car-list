@@ -1603,5 +1603,16 @@
       "RS-5",
       "RS-7"
     ]
+  },
+  {
+    "brand": "Wuling",
+    "models": [
+      "Air EV",
+      "Almaz",
+      "Alvez",
+      "Cortez",
+      "Hongguang Mini EV",
+      "Victory"
+    ]
   }  
 ]
