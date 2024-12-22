@@ -1614,5 +1614,12 @@
       "Hongguang Mini EV",
       "Victory"
     ]
+  },
+  {
+    "brand": "BYTON",
+    "models": [
+      "K-Byte",
+      "M-Byte"
+    ]
   }  
 ]

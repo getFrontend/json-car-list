@@ -441,6 +441,10 @@ New car models added from 2016 to September 2024.
 - Air EV (2022, compact electric car)
 - Alvez (2023, compact SUV)
 
+#### BYTON:
+- M-Byte (2018, electric SUV concept)
+- K-Byte (2019, electric sedan concept)
+
 ## License
 
 This repository is licensed under the MIT License.
