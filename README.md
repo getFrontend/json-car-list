@@ -445,6 +445,16 @@ New car models added from 2016 to September 2024.
 - M-Byte (2018, electric SUV concept)
 - K-Byte (2019, electric sedan concept)
 
+#### NIO:
+- EP9 (2016, electric hypercar)
+- ES8 (2018, full-size electric SUV)
+- ES6 (2019, mid-size electric SUV)
+- EC6 (2020, coupe-style electric SUV)
+- ET7 (2021, electric sedan)
+- ET5 (2022, compact electric sedan)
+- ES7 (2022, mid-size electric SUV)
+- ES9 (planned for 2024, full-size electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

@@ -1621,5 +1621,18 @@
       "K-Byte",
       "M-Byte"
     ]
-  }  
+  },
+  {
+    "brand": "NIO",
+    "models": [
+      "EC6",
+      "ET5",
+      "ET7",
+      "ES6",
+      "ES7",
+      "ES8",
+      "ES9",
+      "EP9"
+    ]
+  }   
 ]
