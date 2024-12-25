@@ -455,6 +455,14 @@ New car models added from 2016 to September 2024.
 - ES7 (2022, mid-size electric SUV)
 - ES9 (planned for 2024, full-size electric SUV)
 
+#### XPeng:
+- G3 (2018, compact electric SUV)
+- P7 (2020, electric sedan)
+- P5 (2021, compact electric sedan)
+- G6 (2023, mid-size electric SUV)
+- P9 (planned for 2024, flagship electric sedan)
+- X9 (planned for 2025, electric MPV)
+
 ## License
 
 This repository is licensed under the MIT License.
