@@ -463,6 +463,12 @@ New car models added from 2016 to September 2024.
 - P9 (planned for 2024, flagship electric sedan)
 - X9 (planned for 2025, electric MPV)
 
+#### Li Auto:
+- One (2019, range-extended electric SUV)
+- L9 (2022, full-size range-extended electric SUV)
+- L8 (2022, mid-size range-extended electric SUV)
+- L7 (2023, compact range-extended electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
