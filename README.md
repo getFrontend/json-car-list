@@ -469,6 +469,11 @@ New car models added from 2016 to September 2024.
 - L8 (2022, mid-size range-extended electric SUV)
 - L7 (2023, compact range-extended electric SUV)
 
+#### Zeekr:
+- 001 (2021, electric shooting brake)
+- 009 (2022, electric luxury MPV)
+- 003 (planned for 2024, compact electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
