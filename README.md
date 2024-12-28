@@ -474,6 +474,10 @@ New car models added from 2016 to September 2024.
 - 009 (2022, electric luxury MPV)
 - 003 (planned for 2024, compact electric SUV)
 
+#### Lucid:  
+- Air (2021, luxury electric sedan)  
+- Gravity (planned for 2024, luxury electric SUV)  
+
 ## License
 
 This repository is licensed under the MIT License.
