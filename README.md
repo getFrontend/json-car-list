@@ -476,7 +476,11 @@ New car models added from 2016 to September 2024.
 
 #### Lucid:  
 - Air (2021, luxury electric sedan)  
-- Gravity (planned for 2024, luxury electric SUV)  
+- Gravity (planned for 2024, luxury electric SUV)
+
+#### EdisonFuture:
+- EF1-T (2022, electric pickup truck)
+- EF1-V (2023, electric delivery van)
 
 ## License
 

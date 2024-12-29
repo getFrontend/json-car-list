@@ -1669,6 +1669,12 @@
       "Air",
       "Gravity"
     ]
+  },
+  {
+    "brand": "EdisonFuture",
+    "models": [
+      "EF1-T",
+      "EF1-V"
+    ]
   }
-      
 ]
