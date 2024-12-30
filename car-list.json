@@ -1676,5 +1676,11 @@
       "EF1-T",
       "EF1-V"
     ]
-  }
+  },
+  {
+    "brand": "Lordstown Motors",
+    "models": [
+      "Endurance"
+    ]
+  }  
 ]

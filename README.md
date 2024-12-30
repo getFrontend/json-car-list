@@ -482,6 +482,9 @@ New car models added from 2016 to September 2024.
 - EF1-T (2022, electric pickup truck)
 - EF1-V (2023, electric delivery van)
 
+#### Lordstown Motors:
+- Endurance (2022, electric pickup truck)
+
 ## License
 
 This repository is licensed under the MIT License.
