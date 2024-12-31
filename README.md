@@ -485,6 +485,12 @@ New car models added from 2016 to September 2024.
 #### Lordstown Motors:
 - Endurance (2022, electric pickup truck)
 
+#### Fisker:
+- Ocean (2023, electric SUV)
+- Pear (planned for 2024, compact electric car)
+- Ronin (planned for 2025, electric GT convertible)
+- Alaska (planned for 2025, electric pickup truck)
+
 ## License
 
 This repository is licensed under the MIT License.
