@@ -491,6 +491,10 @@ New car models added from 2016 to September 2024.
 - Ronin (planned for 2025, electric GT convertible)
 - Alaska (planned for 2025, electric pickup truck)
 
+#### Drako Motors:
+- GTE (2019, electric luxury sedan)
+- Dragon (2022, electric hyper-SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

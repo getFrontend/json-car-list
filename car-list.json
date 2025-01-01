@@ -1691,5 +1691,12 @@
       "Pear",
       "Ronin"
     ]
-  }    
+  },
+  {
+    "brand": "Drako Motors",
+    "models": [
+      "Dragon",
+      "GTE"
+    ]
+  }      
 ]
