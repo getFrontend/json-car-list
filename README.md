@@ -495,6 +495,12 @@ New car models added from 2016 to September 2024.
 - GTE (2019, electric luxury sedan)
 - Dragon (2022, electric hyper-SUV)
 
+#### Genesis:
+- G70 (2017, luxury sedan)
+- GV80 (2020, luxury SUV)
+- GV70 (2021, compact luxury SUV)
+- GV60 (2022, electric crossover)
+
 ## License
 
 This repository is licensed under the MIT License.
