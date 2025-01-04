@@ -501,6 +501,10 @@ New car models added from 2016 to September 2024.
 - GV70 (2021, compact luxury SUV)
 - GV60 (2022, electric crossover)
 
+#### Rimac:
+- Concept One (2016, electric hypercar)
+- Nevera (2021, electric hypercar)
+
 ## License
 
 This repository is licensed under the MIT License.
