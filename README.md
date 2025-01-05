@@ -505,6 +505,11 @@ New car models added from 2016 to September 2024.
 - Concept One (2016, electric hypercar)
 - Nevera (2021, electric hypercar)
 
+#### Nikola:
+- Tre (2021, electric semi-truck)
+- Two (planned for 2024, hydrogen-electric semi-truck)
+- Badger (planned for 2024, electric pickup truck)
+
 ## License
 
 This repository is licensed under the MIT License.

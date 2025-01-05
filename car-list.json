@@ -1716,5 +1716,13 @@
       "Concept One",
       "Nevera"
     ]
-  }    
+  },
+  {
+    "brand": "Nikola",
+    "models": [
+      "Badger",
+      "Tre",
+      "Two"
+    ]
+  }      
 ]
