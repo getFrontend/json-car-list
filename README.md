@@ -510,6 +510,10 @@ New car models added from 2016 to September 2024.
 - Two (planned for 2024, hydrogen-electric semi-truck)
 - Badger (planned for 2024, electric pickup truck)
 
+#### Aehra:
+- SUV (planned for 2025, luxury electric SUV)
+- Sedan (planned for 2026, luxury electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
