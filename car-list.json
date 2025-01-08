@@ -1731,5 +1731,12 @@
       "Sedan",
       "SUV"
     ]
-  }
+  },
+  {
+    "brand": "Voyah",
+    "models": [
+      "Dreamer",
+      "Free"
+    ]
+  }  
 ]

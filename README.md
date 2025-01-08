@@ -514,6 +514,10 @@ New car models added from 2016 to September 2024.
 - SUV (planned for 2025, luxury electric SUV)
 - Sedan (planned for 2026, luxury electric sedan)
 
+#### Voyah:
+- Free (2021, luxury electric SUV)
+- Dreamer (2022, luxury electric MPV)
+
 ## License
 
 This repository is licensed under the MIT License.
