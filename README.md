@@ -320,6 +320,7 @@ New car models added from 2016 to September 2024.
 - Han (2020, electric sedan)
 - Dolphin (2021, compact electric hatchback)
 - Seal (2022, electric sedan)
+- Yuan Plus (2022, compact electric SUV)
 
 #### Zotye:
 - T300 (2017, compact SUV)
