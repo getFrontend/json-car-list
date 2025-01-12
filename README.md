@@ -519,6 +519,11 @@ New car models added from 2016 to September 2024.
 - Free (2021, luxury electric SUV)
 - Dreamer (2022, luxury electric MPV)
 
+#### Seres:
+- 3 (2020, compact electric SUV)
+- 5 (2021, mid-size electric SUV)
+- 7 (planned for 2024, luxury electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
