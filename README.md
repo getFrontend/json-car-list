@@ -524,6 +524,11 @@ New car models added from 2016 to September 2024.
 - 5 (2021, mid-size electric SUV)
 - 7 (planned for 2024, luxury electric SUV)
 
+#### Hongqi:
+- H5 (2017, executive sedan)
+- H9 (2020, luxury sedan)
+- E-HS9 (2020, full-size electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
