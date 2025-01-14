@@ -529,6 +529,10 @@ New car models added from 2016 to September 2024.
 - H9 (2020, luxury sedan)
 - E-HS9 (2020, full-size electric SUV)
 
+#### Arcfox:
+- Alpha T (2020, mid-size electric SUV)
+- Alpha S (2021, luxury electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
