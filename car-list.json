@@ -1762,5 +1762,12 @@
       "Alpha S",
       "Alpha T"
     ]
-  }       
+  },
+  {
+    "brand": "HiPhi",
+    "models": [
+      "HiPhi X",
+      "HiPhi Z"
+    ]
+  }
 ]
