@@ -1769,5 +1769,13 @@
       "HiPhi X",
       "HiPhi Z"
     ]
-  }
+  },
+  {
+    "brand": "Neta",
+    "models": [
+      "Neta S",
+      "Neta U",
+      "Neta V"
+    ]
+  }  
 ]

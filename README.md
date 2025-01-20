@@ -537,6 +537,11 @@ New car models added from 2016 to September 2024.
 - HiPhi X (2020, electric luxury SUV)
 - HiPhi Z (2022, electric luxury sedan)
 
+#### Neta:
+- Neta V (2020, compact electric SUV)
+- Neta U (2020, mid-size electric SUV)
+- Neta S (2022, electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
