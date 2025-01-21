@@ -542,6 +542,13 @@ New car models added from 2016 to September 2024.
 - Neta U (2020, mid-size electric SUV)
 - Neta S (2022, electric sedan)
 
+#### Evergrande (Hengchi):
+- Hengchi 1 (2022, luxury electric sedan)
+- Hengchi 5 (2022, compact electric SUV)
+- Hengchi 3 (2023, mid-size electric SUV)
+- Hengchi 6 (planned for 2024, electric MPV)
+- Hengchi 7 (planned for 2024, electric luxury sedan)
+
 ## License
 
 This repository is licensed under the MIT License.

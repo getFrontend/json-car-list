@@ -1777,5 +1777,15 @@
       "Neta U",
       "Neta V"
     ]
+  },
+  {
+    "brand": "Evergrande (Hengchi)",
+    "models": [
+      "Hengchi 1",
+      "Hengchi 3",
+      "Hengchi 5",
+      "Hengchi 6",
+      "Hengchi 7"
+    ]
   }  
 ]
