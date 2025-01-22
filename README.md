@@ -549,6 +549,11 @@ New car models added from 2016 to September 2024.
 - Hengchi 6 (planned for 2024, electric MPV)
 - Hengchi 7 (planned for 2024, electric luxury sedan)
 
+#### Denza:
+- Denza X (2019, electric SUV)
+- Denza D9 (2022, luxury electric MPV)
+- Denza N7 (2023, electric SUV coupe)
+
 ## License
 
 This repository is licensed under the MIT License.
