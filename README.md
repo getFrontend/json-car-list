@@ -554,6 +554,10 @@ New car models added from 2016 to September 2024.
 - Denza D9 (2022, luxury electric MPV)
 - Denza N7 (2023, electric SUV coupe)
 
+#### Aiways:
+- U5 (2020, electric mid-size SUV)
+- U6 (2021, electric coupe SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
