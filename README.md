@@ -317,10 +317,14 @@ New car models added from 2016 to September 2024.
 - Chulian (2021, crossover)
 
 #### BYD:
-- Han (2020, electric sedan)
+- Han (2020, luxury electric sedan)
 - Dolphin (2021, compact electric hatchback)
 - Seal (2022, electric sedan)
 - Yuan Plus (2022, compact electric SUV)
+- Song Max (2023, hybrid MPV with 150 km electric range)
+- Sealion 7 (planned for 2025, electric crossover)
+- Yangwang U9 (2024, electric supercar with advanced suspension)
+- Yangwang U8 (2024, luxury electric SUV with amphibious capabilities)
 
 #### Zotye:
 - T300 (2017, compact SUV)
