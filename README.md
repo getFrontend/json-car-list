@@ -562,6 +562,9 @@ New car models added from 2016 to September 2024.
 - U5 (2020, electric mid-size SUV)
 - U6 (2021, electric coupe SUV)
 
+#### FREZe:
+- Nikrob (2021, compact electric car based on the Wuling Hongguang Mini EV)
+
 ## License
 
 This repository is licensed under the MIT License.
