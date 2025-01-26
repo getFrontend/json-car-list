@@ -565,6 +565,12 @@ New car models added from 2016 to September 2024.
 #### FREZe:
 - Nikrob (2021, compact electric car based on the Wuling Hongguang Mini EV)
 
+#### Ora:
+- Black Cat (2019, compact electric car)
+- Good Cat (2020, retro-styled electric hatchback)
+- Lightning Cat (2022, electric sedan)
+- Punk Cat (planned for 2024, retro-inspired electric hatchback)
+
 ## License
 
 This repository is licensed under the MIT License.

@@ -1803,5 +1803,14 @@
     "models": [
       "Nikrob"
     ]
-  }  
+  },
+  {
+    "brand": "Ora",
+    "models": [
+      "Black Cat",
+      "Good Cat",
+      "Lightning Cat",
+      "Punk Cat"
+    ]
+  }    
 ]
