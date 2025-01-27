@@ -1812,5 +1812,13 @@
       "Lightning Cat",
       "Punk Cat"
     ]
-  }    
+  },
+  {
+    "brand": "Foxtron",
+    "models": [
+      "Model C",
+      "Model E",
+      "Model T"
+    ]
+  }      
 ]

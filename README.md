@@ -571,6 +571,11 @@ New car models added from 2016 to September 2024.
 - Lightning Cat (2022, electric sedan)
 - Punk Cat (planned for 2024, retro-inspired electric hatchback)
 
+#### Foxtron:
+- Model C (2023, electric SUV)
+- Model E (2023, luxury electric sedan)
+- Model T (2023, electric bus)
+
 ## License
 
 This repository is licensed under the MIT License.
