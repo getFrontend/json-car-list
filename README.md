@@ -576,6 +576,11 @@ New car models added from 2016 to September 2024.
 - Model E (2023, luxury electric sedan)
 - Model T (2023, electric bus)
 
+#### Rezvani:
+- Tank (2017, luxury tactical SUV)
+- Beast (updated 2018, lightweight sports car)
+- Vengeance (2023, armored luxury SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

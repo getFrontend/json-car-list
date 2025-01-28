@@ -1820,5 +1820,13 @@
       "Model E",
       "Model T"
     ]
-  }      
+  },
+  {
+    "brand": "Rezvani",
+    "models": [
+      "Beast",
+      "Tank",
+      "Vengeance"
+    ]
+  }  
 ]
