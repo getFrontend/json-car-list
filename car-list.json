@@ -1828,5 +1828,14 @@
       "Tank",
       "Vengeance"
     ]
+  },
+  {
+    "brand": "Elaris",
+    "models": [
+      "Beo",
+      "Caro",
+      "Dyo",
+      "Finn"
+    ]
   }  
 ]

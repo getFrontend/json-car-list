@@ -581,6 +581,12 @@ New car models added from 2016 to September 2024.
 - Beast (updated 2018, lightweight sports car)
 - Vengeance (2023, armored luxury SUV)
 
+#### Elaris:  
+- Finn (2021, compact electric city car)  
+- Beo (2021, electric SUV)  
+- Caro (2021, electric van)  
+- Dyo (2022, electric microcar)  
+
 ## License
 
 This repository is licensed under the MIT License.
