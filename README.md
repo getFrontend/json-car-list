@@ -585,7 +585,11 @@ New car models added from 2016 to September 2024.
 - Finn (2021, compact electric city car)  
 - Beo (2021, electric SUV)  
 - Caro (2021, electric van)  
-- Dyo (2022, electric microcar)  
+- Dyo (2022, electric microcar)
+
+#### Piech Automotive:  
+- Mark Zero (planned for 2024, electric sports car)  
+- GT (planned for 2025, grand tourer EV)  
 
 ## License
 
