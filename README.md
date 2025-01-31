@@ -589,7 +589,11 @@ New car models added from 2016 to September 2024.
 
 #### Piech Automotive:  
 - Mark Zero (planned for 2024, electric sports car)  
-- GT (planned for 2025, grand tourer EV)  
+- GT (planned for 2025, grand tourer EV)
+
+#### Silk-FAW:  
+- Hongqi S9 (planned for 2024, hybrid hypercar)  
+- Hongqi S7 (planned for 2025, high-performance electric GT)  
 
 ## License
 
