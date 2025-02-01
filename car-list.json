@@ -1851,5 +1851,12 @@
       "Hongqi S9",
       "Hongqi S7"
     ]
+  },
+  {
+    "brand": "Thunder Power",
+    "models": [
+      "Sedan",
+      "SUV"
+    ]
   }  
 ]

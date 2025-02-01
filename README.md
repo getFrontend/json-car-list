@@ -593,7 +593,11 @@ New car models added from 2016 to September 2024.
 
 #### Silk-FAW:  
 - Hongqi S9 (planned for 2024, hybrid hypercar)  
-- Hongqi S7 (planned for 2025, high-performance electric GT)  
+- Hongqi S7 (planned for 2025, high-performance electric GT)
+
+#### Thunder Power:  
+- Sedan (planned for 2024, luxury electric sedan)  
+- SUV (planned for 2025, electric SUV)  
 
 ## License
 
