@@ -597,7 +597,13 @@ New car models added from 2016 to September 2024.
 
 #### Thunder Power:  
 - Sedan (planned for 2024, luxury electric sedan)  
-- SUV (planned for 2025, electric SUV)  
+- SUV (planned for 2025, electric SUV)
+
+#### Evolute:  
+- i-Pro (2022, compact electric sedan)  
+- i-Joy (2022, electric crossover)  
+- i-Sky (2023, electric SUV)  
+- i-Van (planned for 2024, electric minivan)  
 
 ## License
 

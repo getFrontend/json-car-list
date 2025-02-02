@@ -1858,5 +1858,14 @@
       "Sedan",
       "SUV"
     ]
+  },
+  {
+    "brand": "Evolute",
+    "models": [
+      "i-Joy",
+      "i-Sky",
+      "i-Van",
+      "i-Pro"
+    ]
   }  
 ]
