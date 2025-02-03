@@ -603,7 +603,10 @@ New car models added from 2016 to September 2024.
 - i-Pro (2022, compact electric sedan)  
 - i-Joy (2022, electric crossover)  
 - i-Sky (2023, electric SUV)  
-- i-Van (planned for 2024, electric minivan)  
+- i-Van (planned for 2024, electric minivan)
+
+#### Skywell:  
+- ET5 (2021, mid-size electric SUV)  
 
 ## License
 
