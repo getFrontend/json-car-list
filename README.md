@@ -606,7 +606,13 @@ New car models added from 2016 to September 2024.
 - i-Van (planned for 2024, electric minivan)
 
 #### Skywell:  
-- ET5 (2021, mid-size electric SUV)  
+- ET5 (2021, mid-size electric SUV)
+
+#### Maxus:  
+- E Deliver 3 (2020, compact electric van)  
+- E Deliver 9 (2020, large electric van)  
+- MIFA 9 (2022, electric MPV)  
+- T90 EV (2022, electric pickup truck)
 
 ## License
 
