@@ -614,6 +614,11 @@ New car models added from 2016 to September 2024.
 - MIFA 9 (2022, electric MPV)  
 - T90 EV (2022, electric pickup truck)
 
+#### Leapmotor:  
+- T03 (2020, compact electric city car)  
+- C11 (2021, mid-size electric SUV)  
+- C01 (2022, luxury electric sedan)  
+
 ## License
 
 This repository is licensed under the MIT License.
