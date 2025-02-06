@@ -531,10 +531,11 @@ New car models added from 2016 to September 2024.
 - 5 (2021, mid-size electric SUV)
 - 7 (planned for 2024, luxury electric SUV)
 
-#### Hongqi:
-- H5 (2017, executive sedan)
-- H9 (2020, luxury sedan)
-- E-HS9 (2020, full-size electric SUV)
+#### Hongqi:  
+- H5 (2017, executive sedan)  
+- H9 (2020, luxury sedan)  
+- E-HS9 (2020, full-size electric SUV)  
+- S9 (planned for 2025, hybrid hypercar with 1,400 hp)  
 
 #### Arcfox:
 - Alpha T (2020, mid-size electric SUV)
