@@ -1893,5 +1893,14 @@
       "C11",
       "T03"
     ]
-  }
+  },
+  {
+    "brand": "Weltmeister",
+    "models": [
+      "E5",
+      "EX5",
+      "EX6 Plus",
+      "W6"
+    ]
+  }  
 ]

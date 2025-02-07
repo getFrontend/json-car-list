@@ -621,7 +621,13 @@ New car models added from 2016 to September 2024.
 #### Leapmotor:  
 - T03 (2020, compact electric city car)  
 - C11 (2021, mid-size electric SUV)  
-- C01 (2022, luxury electric sedan)  
+- C01 (2022, luxury electric sedan)
+
+#### Weltmeister (WM Motor):  
+- EX5 (2018, compact electric SUV)  
+- EX6 Plus (2019, mid-size electric SUV)  
+- W6 (2021, intelligent electric SUV with autonomous driving features)  
+- E5 (2022, electric sedan)  
 
 ## License
 
