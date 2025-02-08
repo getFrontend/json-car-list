@@ -541,9 +541,10 @@ New car models added from 2016 to September 2024.
 - Alpha T (2020, mid-size electric SUV)
 - Alpha S (2021, luxury electric sedan)
 
-#### HiPhi:
-- HiPhi X (2020, electric luxury SUV)
-- HiPhi Z (2022, electric luxury sedan)
+#### HiPhi:  
+- HiPhi X (2020, luxury electric SUV with futuristic design)  
+- HiPhi Z (2022, high-performance electric sedan)  
+- HiPhi Y (2023, mid-size luxury electric SUV)  
 
 #### Neta:
 - Neta V (2020, compact electric SUV)
