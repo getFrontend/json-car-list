@@ -637,6 +637,16 @@ New car models added from 2016 to September 2024.
 - ProMaster City (updated in 2020, compact commercial van)
 - 1500 TRX (2021, high-performance pickup truck)
 
+#### Geely:
+- Binrui (2018, sedan)
+- Panda (2019, city car)
+- Emgrand 7 (2020, compact sedan)
+- Emgrand GT (2020, performance sedan)
+- Emgrand X7 (2020, mid-size SUV)
+- Icon (2020, compact crossover)
+- Okavango (2020, mid-size SUV)
+- Tugella (2021, coupe SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

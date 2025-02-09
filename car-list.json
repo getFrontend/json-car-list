@@ -1914,5 +1914,20 @@
       "ProMaster",
       "ProMaster City"
     ]
+  },
+  {
+    "brand": "Geely",
+    "models": [
+      "Atlas",
+      "Binrui",
+      "Borui",
+      "Emgrand 7",
+      "Emgrand GT",
+      "Emgrand X7",
+      "Icon",
+      "Okavango",
+      "Panda",
+      "Tugella"
+    ]
   }  
 ]
