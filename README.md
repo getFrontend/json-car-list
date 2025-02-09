@@ -628,7 +628,14 @@ New car models added from 2016 to September 2024.
 - EX5 (2018, compact electric SUV)  
 - EX6 Plus (2019, mid-size electric SUV)  
 - W6 (2021, intelligent electric SUV with autonomous driving features)  
-- E5 (2022, electric sedan)  
+- E5 (2022, electric sedan)
+
+#### Ram:
+- 2500 (updated generation, 2018, heavy-duty pickup)
+- 3500 (updated generation, 2018, heavy-duty pickup)
+- ProMaster (refreshed in 2018, full-size commercial van)
+- ProMaster City (updated in 2020, compact commercial van)
+- 1500 TRX (2021, high-performance pickup truck)
 
 ## License
 
