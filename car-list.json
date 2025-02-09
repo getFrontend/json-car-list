@@ -1929,5 +1929,14 @@
       "Panda",
       "Tugella"
     ]
-  }  
+  },
+  {
+    "brand": "Voyah",
+    "models": [
+      "Dreamer",
+      "Free",
+      "Passion",
+      "Pro"
+    ]
+  }    
 ]

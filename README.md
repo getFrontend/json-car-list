@@ -647,6 +647,12 @@ New car models added from 2016 to September 2024.
 - Okavango (2020, mid-size SUV)
 - Tugella (2021, coupe SUV)
 
+#### Voyah:
+- Dreamer (2022, luxury electric MPV)
+- Free (2021, luxury electric SUV)
+- Passion (2024, convertible electric sports car)
+- Pro (2024, premium electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
