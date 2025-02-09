@@ -653,6 +653,12 @@ New car models added from 2016 to September 2024.
 - Passion (2024, convertible electric sports car)
 - Pro (2024, premium electric sedan)
 
+#### Changan:
+- UNI-E (2020, electric sedan)
+- UNI-K (2021, mid-size electric SUV)
+- UNI-T (2022, electric coupe)
+- UNI-V (2024, premium electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.

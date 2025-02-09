@@ -1938,5 +1938,20 @@
       "Passion",
       "Pro"
     ]
-  }    
+  },
+  {
+    "brand": "Changan",
+    "models": [
+      "Alsvin",
+      "BenBen",
+      "CS35",
+      "CS55",
+      "CS75 Plus",
+      "Eado",
+      "UNI-E",
+      "UNI-K",
+      "UNI-T",
+      "UNI-V"
+    ]
+  }  
 ]
