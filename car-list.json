@@ -1953,5 +1953,15 @@
       "UNI-T",
       "UNI-V"
     ]
+  },
+  {
+    "brand": "JAC",
+    "models": [
+      "iEV6S",
+      "iEV7S",
+      "Refine E6",
+      "Refine S4",
+      "Refine S5"
+    ]
   }  
 ]

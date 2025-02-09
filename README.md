@@ -659,6 +659,13 @@ New car models added from 2016 to September 2024.
 - UNI-T (2022, electric coupe)
 - UNI-V (2024, premium electric sedan)
 
+#### JAC:
+- iEV6S (2020, electric SUV)
+- iEV7S (2021, electric crossover)
+- Refine E6 (2022, electric sedan)
+- Refine S4 (2021, compact electric SUV)
+- Refine S5 (2021, mid-size electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
