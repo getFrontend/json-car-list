@@ -1963,5 +1963,15 @@
       "Refine S4",
       "Refine S5"
     ]
+  },
+  {
+    "brand": "Dongfeng",
+    "models": [
+      "Fengon E3",
+      "Fengon E5",
+      "Fengon E6",
+      "Junfeng EV",
+      "Kangdian EV"
+    ]
   }  
 ]

@@ -666,6 +666,13 @@ New car models added from 2016 to September 2024.
 - Refine S4 (2021, compact electric SUV)
 - Refine S5 (2021, mid-size electric SUV)
 
+#### Dongfeng:
+- Fengon E3 (2021, compact electric SUV)
+- Fengon E5 (2022, mid-size electric SUV)
+- Fengon E6 (2023, upscale electric SUV)
+- Junfeng EV (2022, electric sedan)
+- Kangdian EV (2024, electric crossover)
+
 ## License
 
 This repository is licensed under the MIT License.
