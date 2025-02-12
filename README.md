@@ -673,6 +673,12 @@ New car models added from 2016 to September 2024.
 - Junfeng EV (2022, electric sedan)
 - Kangdian EV (2024, electric crossover)
 
+#### BAIC:
+- EC5 (2020, compact electric SUV)
+- EU5 (2021, mid-size electric sedan)
+- EX360 (2022, electric crossover)
+- EU-X (2024, premium electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.

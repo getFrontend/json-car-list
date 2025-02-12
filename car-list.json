@@ -1973,5 +1973,14 @@
       "Junfeng EV",
       "Kangdian EV"
     ]
-  }  
+  },
+  {
+    "brand": "BAIC",
+    "models": [
+      "EC5",
+      "EU5",
+      "EU-X",
+      "EX360"
+    ]
+  }    
 ]
