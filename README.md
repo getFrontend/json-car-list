@@ -679,6 +679,11 @@ New car models added from 2016 to September 2024.
 - EX360 (2022, electric crossover)
 - EU-X (2024, premium electric sedan)
 
+#### Roewe:
+- Ei5 (2019, electric MPV)
+- RX6 (2022, mid-size SUV with advanced electrification options)
+- i6 (2024, premium electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
