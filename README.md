@@ -684,6 +684,13 @@ New car models added from 2016 to September 2024.
 - RX6 (2022, mid-size SUV with advanced electrification options)
 - i6 (2024, premium electric sedan)
 
+#### Trumpchi:
+- GE3 (2019, compact electric SUV)
+- ES6 (2020, mid-size electric SUV)
+- GS4 (updated in 2021, compact crossover with electrified options)
+- GS8 (updated in 2022, full-size SUV with hybrid/electric variants)
+- GE3 Plus (2024, enhanced compact electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

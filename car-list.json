@@ -1991,5 +1991,15 @@
       "RX5",
       "RX6"
     ]
+  },
+  {
+    "brand": "Trumpchi",
+    "models": [
+      "ES6",
+      "GE3",
+      "GE3 Plus",
+      "GS4",
+      "GS8"
+    ]
   }  
 ]
