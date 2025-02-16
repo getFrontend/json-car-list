@@ -691,6 +691,10 @@ New car models added from 2016 to September 2024.
 - GS8 (updated in 2022, full-size SUV with hybrid/electric variants)
 - GE3 Plus (2024, enhanced compact electric SUV)
 
+#### Enovate:
+- ME7 (2022, luxury electric sedan)
+- ME9 (2024, flagship electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
