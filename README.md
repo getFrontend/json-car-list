@@ -695,6 +695,10 @@ New car models added from 2016 to September 2024.
 - ME7 (2022, luxury electric sedan)
 - ME9 (2024, flagship electric sedan)
 
+#### Qoros:
+- Qoros 3 (2023, compact premium sedan/crossover variant with advanced connectivity)
+- Qoros 9 (2023, flagship electric/premium model)
+
 ## License
 
 This repository is licensed under the MIT License.

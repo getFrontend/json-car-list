@@ -2008,5 +2008,12 @@
       "ME7",
       "ME9"
     ]
-  }   
+  },
+  {
+    "brand": "Qoros",
+    "models": [
+      "Qoros 3",
+      "Qoros 9"
+    ]
+  }     
 ]
