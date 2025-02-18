@@ -128,9 +128,11 @@ New car models added from 2016 to September 2024.
 - iX (2021, electric SUV)
 
 #### Volkswagen:
-- ID.3 (2020, electric)
-- ID.4 (2021, electric SUV)
-- ID.5 (2021, electric SUV-Coupé)
+- ID.3 (2020, battery electric compact hatchback)
+- ID.4 (2021, battery electric SUV)
+- ID.5 (2021, battery electric SUV-coupé)
+- ID. Buzz (2022, battery electric reinterpretation of the classic microbus)
+- Tera (2024, concept electric vehicle aimed at a new segment)
 
 #### Suzuki:
 - Ignis (2016, compact crossover)
