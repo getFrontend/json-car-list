@@ -701,6 +701,11 @@ New car models added from 2016 to September 2024.
 - Qoros 3 (2023, compact premium sedan/crossover variant with advanced connectivity)
 - Qoros 9 (2023, flagship electric/premium model)
 
+#### Aion:
+- Aion V (2021, electric SUV)
+- Aion S (2019, compact electric sedan)
+- Aion LX (2024, premium electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.

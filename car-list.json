@@ -2014,5 +2014,13 @@
       "Qoros 3",
       "Qoros 9"
     ]
-  }     
+  },
+  {
+    "brand": "Aion",
+    "models": [
+      "Aion LX",
+      "Aion S",
+      "Aion V"
+    ]
+  }    
 ]
