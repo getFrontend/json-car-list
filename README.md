@@ -706,6 +706,11 @@ New car models added from 2016 to September 2024.
 - Aion S (2019, compact electric sedan)
 - Aion LX (2024, premium electric SUV)
 
+#### Rising Auto:
+- R7 (2022, mid-size electric crossover)
+- R9 (2023, flagship electric SUV)
+- R3 (planned for 2025, compact electric vehicle)
+
 ## License
 
 This repository is licensed under the MIT License.

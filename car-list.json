@@ -2022,5 +2022,13 @@
       "Aion S",
       "Aion V"
     ]
-  }    
+  },
+  {
+    "brand": "Rising Auto",
+    "models": [
+      "R3",
+      "R7",
+      "R9"
+    ]
+  }      
 ]
