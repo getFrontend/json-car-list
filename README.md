@@ -711,6 +711,12 @@ New car models added from 2016 to September 2024.
 - R9 (2023, flagship electric SUV)
 - R3 (planned for 2025, compact electric vehicle)
 
+#### Bestune:
+- B70 (updated in 2020, compact sedan)
+- E01 (2021, electric sedan)
+- T77 (2022, electric SUV)
+- T99 (2024, flagship electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
