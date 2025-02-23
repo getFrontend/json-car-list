@@ -717,6 +717,10 @@ New car models added from 2016 to September 2024.
 - T77 (2022, electric SUV)
 - T99 (2024, flagship electric SUV)
 
+#### Singulato:
+- iS6 (2021, electric mid-size SUV)
+- iS7 (2023, premium electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
