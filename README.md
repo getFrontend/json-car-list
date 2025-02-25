@@ -721,6 +721,11 @@ New car models added from 2016 to September 2024.
 - iS6 (2021, electric mid-size SUV)
 - iS7 (2023, premium electric SUV)
 
+#### Leapmotor:
+- T03 (2020, compact electric city car)
+- C11 (2021, mid-size electric SUV)
+- C01 (2022, luxury electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
