@@ -2054,5 +2054,13 @@
       "C11",
       "T03"
     ]
-  }  
+  },
+  {
+    "brand": "DS Automobiles",
+    "models": [
+      "DS 3 Crossback E-Tense",
+      "DS 7 Crossback E-Tense",
+      "DS 9 E-Tense"
+    ]
+  }    
 ]

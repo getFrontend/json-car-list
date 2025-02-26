@@ -726,6 +726,11 @@ New car models added from 2016 to September 2024.
 - C11 (2021, mid-size electric SUV)
 - C01 (2022, luxury electric sedan)
 
+#### DS Automobiles:
+- DS 3 Crossback E-Tense (2020, compact electric crossover)
+- DS 7 Crossback E-Tense (2021, mid-size luxury electric SUV)
+- DS 9 E-Tense (planned for 2024, flagship luxury electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.
