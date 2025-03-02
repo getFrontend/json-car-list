@@ -731,6 +731,10 @@ New car models added from 2016 to September 2024.
 - DS 7 Crossback E-Tense (2021, mid-size luxury electric SUV)
 - DS 9 E-Tense (planned for 2024, flagship luxury electric sedan)
 
+#### IM Motors:
+- IM L6 (2022, electric luxury sedan)
+- IM L7 (2023, flagship electric luxury sedan)
+
 ## License
 
 This repository is licensed under the MIT License.

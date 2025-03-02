@@ -2062,5 +2062,12 @@
       "DS 7 Crossback E-Tense",
       "DS 9 E-Tense"
     ]
-  }    
+  },
+  {
+    "brand": "IM Motors",
+    "models": [
+      "IM L6",
+      "IM L7"
+    ]
+  }      
 ]
