@@ -1753,15 +1753,6 @@
     ]
   },
   {
-    "brand": "Hongqi",
-    "models": [
-      "E-HS9",
-      "H5",
-      "H9",
-      "S9"
-    ]
-  },
-  {
     "brand": "Arcfox",
     "models": [
       "Alpha S",
@@ -1849,10 +1840,13 @@
     ]
   },
   {
-    "brand": "Silk-FAW",
+    "brand": "Hongqi",
     "models": [
-      "Hongqi S9",
-      "Hongqi S7"
+      "E-HS9",
+      "H5",
+      "H9",
+      "L5",
+      "S9"
     ]
   },
   {

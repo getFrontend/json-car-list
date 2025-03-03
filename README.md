@@ -533,11 +533,12 @@ New car models added from 2016 to September 2024.
 - 5 (2021, mid-size electric SUV)
 - 7 (planned for 2024, luxury electric SUV)
 
-#### Hongqi:  
-- H5 (2017, executive sedan)  
-- H9 (2020, luxury sedan)  
-- E-HS9 (2020, full-size electric SUV)  
-- S9 (planned for 2025, hybrid hypercar with 1,400 hp)  
+#### Hongqi:
+- H5 (2017, executive sedan)
+- H9 (2020, luxury sedan)
+- E-HS9 (2020, full-size luxury electric SUV)
+- L5 (2022, ultra-luxury sedan)
+- S9 (2025, hybrid hypercar)
 
 #### Arcfox:
 - Alpha T (2020, mid-size electric SUV)
@@ -597,10 +598,6 @@ New car models added from 2016 to September 2024.
 #### Piech Automotive:  
 - Mark Zero (planned for 2024, electric sports car)  
 - GT (planned for 2025, grand tourer EV)
-
-#### Silk-FAW:  
-- Hongqi S9 (planned for 2024, hybrid hypercar)  
-- Hongqi S7 (planned for 2025, high-performance electric GT)
 
 #### Thunder Power:  
 - Sedan (planned for 2024, luxury electric sedan)  
