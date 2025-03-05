@@ -732,6 +732,15 @@ New car models added from 2016 to September 2024.
 - IM L6 (2022, electric luxury sedan)
 - IM L7 (2023, flagship electric luxury sedan)
 
+#### Neta Auto:
+- Neta N01 (2018, compact electric SUV)
+- Neta U (2019, mid-size electric SUV)
+- Neta V (2020, compact electric hatchback)
+- Neta S (2022, electric sedan)
+- Neta GT (2023, electric sports car)
+- Neta V-II (2025, updated version of Neta V with enhanced features)
+- Neta X (2025, smart electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
