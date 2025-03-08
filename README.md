@@ -741,6 +741,11 @@ New car models added from 2016 to September 2024.
 - Neta V-II (2025, updated version of Neta V with enhanced features)
 - Neta X (2025, smart electric SUV)
 
+#### JMC:
+- Yuhu EV (2022, electric pickup truck)
+- EV6 (2023, electric SUV)
+- Yuhu Pickup (updated in 2023, conventional pickup truck)
+
 ## License
 
 This repository is licensed under the MIT License.
