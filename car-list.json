@@ -2083,5 +2083,14 @@
       "Yuhu EV",
       "Yuhu Pickup"
     ]
+  },
+  {
+    "brand": "Haima",
+    "models": [
+      "7X",
+      "E3",
+      "E6",
+      "S5"
+    ]
   }  
 ]

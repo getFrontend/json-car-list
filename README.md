@@ -746,6 +746,12 @@ New car models added from 2016 to September 2024.
 - EV6 (2023, electric SUV)
 - Yuhu Pickup (updated in 2023, conventional pickup truck)
 
+#### Haima:
+- S5 (2017, conventional compact SUV)
+- E3 (2020, electric compact SUV)
+- E6 (2022, electric sedan)
+- 7X (2023, mid-size electric SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
