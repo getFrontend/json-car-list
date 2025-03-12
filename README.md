@@ -752,6 +752,10 @@ New car models added from 2016 to September 2024.
 - E6 (2022, electric sedan)
 - 7X (2023, mid-size electric SUV)
 
+#### Mullen Automotive:
+- FIVE (2023, electric pickup truck)
+- MXE (planned for 2025, electric crossover)
+
 ## License
 
 This repository is licensed under the MIT License.
