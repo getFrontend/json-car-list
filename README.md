@@ -756,6 +756,10 @@ New car models added from 2016 to September 2024.
 - FIVE (2023, electric pickup truck)
 - MXE (planned for 2025, electric crossover)
 
+#### Exeed:
+- TX (2021, mid-size luxury SUV)
+- VX (2023, compact luxury SUV)
+
 ## License
 
 This repository is licensed under the MIT License.
