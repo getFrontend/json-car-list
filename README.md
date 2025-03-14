@@ -760,6 +760,10 @@ New car models added from 2016 to September 2024.
 - TX (2021, mid-size luxury SUV)
 - VX (2023, compact luxury SUV)
 
+#### Karma Automotive:
+- Revero (updated in 2018, luxury plug-in hybrid sedan)
+- Revero GT (2020, luxury electric sedan with performance upgrades)
+
 ## License
 
 This repository is licensed under the MIT License.
