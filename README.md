@@ -764,6 +764,10 @@ New car models added from 2016 to September 2024.
 - Revero (updated in 2018, luxury plug-in hybrid sedan)
 - Revero GT (2020, luxury electric sedan with performance upgrades)
 
+#### AITO:
+- M7 (2022, premium smart electric SUV)
+- M5 (2023, smart electric sedan)
+
 ## License
 
 This repository is licensed under the MIT License.

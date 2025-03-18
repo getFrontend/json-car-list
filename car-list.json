@@ -2113,5 +2113,12 @@
       "Revero",
       "Revero GT"
     ]
-  }  
+  },
+  {
+    "brand": "AITO",
+    "models": [
+      "M5",
+      "M7"
+    ]
+  }
 ]
