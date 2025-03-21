@@ -8,14 +8,20 @@ This repository contains a comprehensive **JSON dataset** of car brands and thei
 
 ## 🚗 Summary
 
-- Total Car Brands : 111
-- Total Car Models : 1,798
+- Total Car Brands : 113 brands
+- Total Car Models : 2,177 models
 
-The JSON file contains a comprehensive collection of car brands from around the world, including traditional manufacturers like Toyota, BMW, and Ford, as well as newer electric vehicle manufacturers like Tesla, Rivian, and NIO. Each brand has an associated array of models, ranging from just a few models for some brands to dozens for larger manufacturers.
+The JSON file contains a comprehensive collection of car brands from around the world:
+
+1. Traditional automotive manufacturers (Toyota, Ford, BMW, etc.)
+2. Luxury and supercar brands (Ferrari, Lamborghini, Rolls-Royce, etc.)
+3. Electric vehicle manufacturers (Tesla, Rivian, Lucid, NIO, etc.)
+4. Chinese automotive companies (BYD, Geely, NIO, etc.)
+5. Emerging brands and startups
 
 ## Features
 
-- **JSON formatted data** for easy parsing and integration.
+- **JSON formatted data** with all brands sorted alphabetically for easy parsing and integration.
 - A detailed list of brands and models from various manufacturers.
 - Updated with a wide selection of car brands and their respective models.
 
