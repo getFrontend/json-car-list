@@ -2,7 +2,9 @@
 
 This repository contains a comprehensive **JSON dataset** of car brands and their respective models. The data is well-structured and covers a wide range of well-known brands, including but not limited to **Honda, BMW, Lexus, Mazda, Toyota, Volkswagen, Mercedes-Benz**, and many more. The list is intended to provide developers with an easy-to-use JSON string format that can be integrated into various projects such as car-related apps, websites, or APIs.
 
-> 💡This repository contains an updated list (the old version was Last Updated: 12/12/2016) and is current as of September 2024.
+> 💡This repository contains an updated list (the old version was Last Updated: 12/12/2016) and is current as of March 2025.
+
+<img src="./assets/images/json-car-list-poster.png" alt="Car Brands and Models List by Sergey" />
 
 ## Features
 
