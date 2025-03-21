@@ -43,258 +43,21 @@ Contributions are welcome! If you'd like to add more brands or update existing o
 
 New car models added from 2016 to 2025.
 
-#### SEAT:
+#### Aehra:
+- SUV (planned for 2025, luxury electric SUV)
+- Sedan (planned for 2026, luxury electric sedan)
 
-- Ateca (2016)
-- Arona (2017)
-- Tarraco (2018)
+#### Aiways:
+- U5 (2020, electric mid-size SUV)
+- U6 (2021, electric coupe SUV)
 
-#### Renault
-
-- Triber (2019)
-- Arkana (2020)
-- Megane E-Tech (2021, electric)
-- Kiger (2021, compact SUV)
-- Austral (2022)
-
-#### Peugeot:
-
-- 208 (new generation 2019)
-- e-208 (2019, electric)
-- e-2008 (2019, electric SUV)
-- 3008 Hybrid (2019, plug-in hybrid)
-- 508 PSE (2020, high-performance model)
-- 308 Hybrid (2021)
-- 408 (2022, SUV-Coupé)
-- 5008 Hybrid (2022)
-
-#### Dacia:
-- Spring (2021, electric vehicle)
-- Jogger (2021, crossover)
-- Bigster (planned for 2024, larger SUV)
-
-#### Citroën:
-- C3 Aircross (2017)
-- C4 SpaceTourer (formerly C4 Picasso, updated 2018)
-- C5 X (2021, crossover)
-- ë-C4 (2021, electric vehicle)
-
-#### Opel:
-- Crossland (2017)
-- Grandland (2017, updated 2021)
-- Mokka (2020, new generation)
-- Mokka-e (2020, electric SUV)
-- Zafira Life (2020, people carrier)
-- Astra Electric (2023, electric version)
+#### AITO:
+- M7 (2022, premium smart electric SUV)
+- M5 (2023, smart electric sedan)
 
 #### Alfa Romeo:
 - Giulia (2016)
 - Stelvio (2017)
-
-#### Škoda:
-- Karoq (2017)
-- Kodiaq (2016)
-- Enyaq (2020, electric)
-
-#### Chevrolet:
-- Trax (2016)
-- Malibu (new generation, 2016)
-- Blazer (2019, revived model)
-- Corvette Stingray (2020, new generation)
-
-#### Porsche:
-- Cayenne (2018, updated)
-- Macan (2016, updated)
-- Taycan (2019, electric)
-
-#### Subaru:
-- XV (2017, new generation)
-- Levorg (2020, new generation)
-- BRZ (2021, new generation)
-- WRX (2022, performance sedan)
-
-#### Mazda:
-- CX-30 (2019)
-- CX-60 (2022, plug-in hybrid)
-
-#### Mitsubishi:
-- Eclipse Cross (2017)
-- Pajero Sport (2019, updated)
-- Outlander (2021, new generation)
-
-#### Lexus:
-- UX (2018)
-- NX (new generation, 2021)
-
-#### Toyota:
-- Yaris Cross (2020)
-- Supra (2019, revived model)
-- Highlander (2020, new generation)
-
-#### BMW:
-- X2 (2018)
-- iX3 (2020, electric SUV)
-- iX (2021, electric SUV)
-
-#### Volkswagen:
-- ID.3 (2020, battery electric compact hatchback)
-- ID.4 (2021, battery electric SUV)
-- ID.5 (2021, battery electric SUV-coupé)
-- ID. Buzz (2022, battery electric reinterpretation of the classic microbus)
-- Tera (2024, concept electric vehicle aimed at a new segment)
-
-#### Suzuki:
-- Ignis (2016, compact crossover)
-- Swift (new generation, 2017)
-- Jimny (new generation, 2018)
-- S-Cross (new generation, 2021)
-- Grand Vitara (2022, mid-size SUV)
-
-#### Mercedes-Benz:
-- GLB (2019)
-- EQC (2019, electric)
-- GLA (2020, new generation)
-- EQS (2021, electric luxury sedan)
-
-#### Audi:
-- Q4 e-tron (2021, electric SUV)
-
-#### Volvo:
-- XC40 (2017)
-- V60 (2018, new generation)
-- S60 (2018, new generation)
-
-#### Fiat:
-- 500X (2016, updated)
-- Fullback (2016, pickup truck)
-- Tipo (new generation, 2016)
-
-#### Ford:
-- Fiesta (new generation, 2017)
-- Focus (new generation, 2018)
-- Puma (2019, crossover)
-- Kuga (new generation, 2020)
-- Explorer (2020, new generation)
-
-#### Hyundai:
-- Ioniq (2016, hybrid/electric)
-- Kona (2017, crossover)
-- Palisade (2018, full-size SUV)
-- Venue (2019, subcompact SUV)
-- Staria (2021, multi-purpose vehicle)
-
-#### Honda:
-- CR-V (new generation, 2017)
-- Jazz (new generation, 2020)
-- HR-V (new generation, 2021)
-- Civic (new generation, 2021)
-
-#### Jaguar:
-- XF (new generation, 2016)
-- E-Pace (2017, SUV)
-- I-Pace (2018, electric SUV)
-- F-Type (updated, 2020)
-
-#### Jeep:
-- Compass (new generation, 2017)
-- Grand Cherokee (new generation, 2021)
-- Wrangler (new generation, 2018)
-
-#### Kia:
-- Niro (2016, hybrid)
-- Stinger (2017)
-- Ceed (new generation, 2018)
-- Seltos (2019)
-- Sorento (new generation, 2020)
-
-#### Land Rover:
-- Range Rover Velar (2017)
-- Defender (2020, new generation)
-- Discovery (2021, updated)
-
-#### Nissan:
-- Leaf (new generation, 2017)
-- Juke (new generation, 2019)
-- Qashqai (new generation, 2021)
-- X-Trail (new generation, 2022)
-
-#### Dodge:
-- Challenger (updated, 2017)
-- Durango (updated, 2018)
-- RAM 1500 (new generation, 2019)
-
-#### Chrysler:
-- Pacifica (2016, minivan)
-- 300 (updated, 2020)
-
-#### Cadillac:
-- XT4 (2018)
-- XT6 (2019)
-- CT5 (2020)
-
-#### Ferrari:
-- 812 Superfast (2017)
-- Portofino (2018)
-- Roma (2019)
-- SF90 Stradale (2020, plug-in hybrid)
-
-#### Maserati:
-- Levante (2016, SUV)
-- Ghibli (updated, 2020)
-- MC20 (2020, sports car)
-
-#### Infiniti:
-- QX30 (2016, compact SUV)
-- Q50 (updated, 2017)
-- Q60 (2017)
-- QX50 (2018, redesigned)
-
-#### Bentley:
-- Bentayga (2016, luxury SUV)
-- Continental GT (new generation, 2018)
-- Flying Spur (new generation, 2019)
-
-#### Rolls-Royce:
-- Phantom (new generation, 2017)
-- Cullinan (2018, SUV)
-- Ghost (new generation, 2020)
-
-#### Aston Martin:
-- DB11 (2016)
-- Vantage (new generation, 2018)
-- DBS Superleggera (2018)
-
-#### Genesis:
-- G70 (2017)
-- GV80 (2020, SUV)
-- GV70 (2021, compact SUV)
-
-#### Bugatti:
-- Chiron (2016)
-- Divo (2018)
-
-#### McLaren:
-- 720S (2017)
-- Senna (2018)
-- GT (2019)
-- Speedtail (2019)
-- 765LT (2020)
-
-#### Tesla:
-- Model 3 (2017)
-- Model Y (2020)
-- Cybertruck (2024)
-- Roadster (planned for 2025)
-
-#### Koenigsegg:
-- Regera (2016, hybrid hypercar)
-- Jesko (2019)
-- Gemera (2020, 4-seater hybrid)
-
-#### Pagani:
-- Huayra BC (2016)
-- Huayra Roadster (2017)
-- Huayra Imola (2020)
 
 #### Alpine:
 - A110 (2017, sports car)
@@ -302,30 +65,56 @@ New car models added from 2016 to 2025.
 - A110 GT (2022, grand touring variant)
 - A110 R (2022, track-focused variant)
 
-#### Lancia:
-- Ypsilon (updated, 2021)
+#### Aion:
+- Aion V (2021, electric SUV)
+- Aion S (2019, compact electric sedan)
+- Aion LX (2024, premium electric SUV)
 
-#### Chery:
-- Tiggo 7 (2016, compact SUV)
-- Tiggo 8 (2018, mid-size SUV)
-- Arrizo 5 Plus (2021, sedan)
-- Arrizo 8 (2022, large sedan)'
+#### Arcfox:
+- Alpha T (2020, mid-size electric SUV)
+- Alpha S (2021, luxury electric sedan)
 
-#### Geely:
-- Atlas (2016, compact SUV)
-- Binrui (2018, sedan)
-- Icon (2020, compact crossover)
-- Okavango (2020, mid-size SUV)
-- Tugella (2021, coupe SUV)
+#### Aston Martin:
+- DB11 (2016)
+- Vantage (new generation, 2018)
+- DBS Superleggera (2018)
 
-#### Haval:
-- H6 (new generation, 2017, compact SUV)
-- F7 (2018, compact SUV)
-- F7x (2019, coupe SUV)
-- Big Dog (2020, off-road SUV)
-- Dargo (2021, off-road SUV variant)
-- Jolion (2021, compact SUV)
-- Chulian (2021, crossover)
+#### Audi:
+- Q4 e-tron (2021, electric SUV)
+
+#### BAIC:
+- EC5 (2020, compact electric SUV)
+- EU5 (2021, mid-size electric sedan)
+- EX360 (2022, electric crossover)
+- EU-X (2024, premium electric sedan)
+
+#### Baojun:
+- E100 (2017, compact electric car)
+- E200 (2018, compact electric car)
+- RS-3 (2019, subcompact SUV)
+- E300 (2020, electric microcar)
+- KiWi EV (2021, stylish urban electric car)
+- RS-7 (2021, mid-size SUV)
+
+#### Bentley:
+- Bentayga (2016, luxury SUV)
+- Continental GT (new generation, 2018)
+- Flying Spur (new generation, 2019)
+
+#### Bestune:
+- B70 (updated in 2020, compact sedan)
+- E01 (2021, electric sedan)
+- T77 (2022, electric SUV)
+- T99 (2024, flagship electric SUV)
+
+#### BMW:
+- X2 (2018)
+- iX3 (2020, electric SUV)
+- iX (2021, electric SUV)
+
+#### Bugatti:
+- Chiron (2016)
+- Divo (2018)
 
 #### BYD:  
 - Han (2020, luxury electric sedan)  
@@ -340,16 +129,340 @@ New car models added from 2016 to 2025.
 - Yangwang U9 (2024, electric supercar with advanced suspension)  
 - Yangwang U8 (2024, luxury electric SUV with amphibious capabilities)  
 
-#### Zotye:
-- T300 (2017, compact SUV)
-- T700 (2017, luxury SUV)
-- T500 (2018, mid-size SUV)
-- T800 (2018, full-size SUV)
+#### BYTON:
+- M-Byte (2018, electric SUV concept)
+- K-Byte (2019, electric sedan concept)
+
+#### Cadillac:
+- XT4 (2018)
+- XT6 (2019)
+- CT5 (2020)
+
+#### Changan:
+- UNI-E (2020, electric sedan)
+- UNI-K (2021, mid-size electric SUV)
+- UNI-T (2022, electric coupe)
+- UNI-V (2024, premium electric sedan)
+
+#### Chery:
+- Tiggo 7 (2016, compact SUV)
+- Tiggo 8 (2018, mid-size SUV)
+- Arrizo 5 Plus (2021, sedan)
+- Arrizo 8 (2022, large sedan)
+
+#### Chevrolet:
+- Trax (2016)
+- Malibu (new generation, 2016)
+- Blazer (2019, revived model)
+- Corvette Stingray (2020, new generation)
+
+#### Chrysler:
+- Pacifica (2016, minivan)
+- 300 (updated, 2020)
+
+#### Citroën:
+- C3 Aircross (2017)
+- C4 SpaceTourer (formerly C4 Picasso, updated 2018)
+- C5 X (2021, crossover)
+- ë-C4 (2021, electric vehicle)
+
+#### Dacia:
+- Spring (2021, electric vehicle)
+- Jogger (2021, crossover)
+- Bigster (planned for 2024, larger SUV)
+
+#### Daihatsu:
+- Thor (2016, mini MPV)
+- Rocky (2019, compact SUV)
+- Altis (2021, hybrid sedan)
+
+#### Denza:
+- Denza X (2019, electric SUV)
+- Denza D9 (2022, luxury electric MPV)
+- Denza N7 (2023, electric SUV coupe)
+
+#### Dodge:
+- Challenger (updated, 2017)
+- Durango (updated, 2018)
+- RAM 1500 (new generation, 2019)
+
+#### Dongfeng:
+- Fengon E3 (2021, compact electric SUV)
+- Fengon E5 (2022, mid-size electric SUV)
+- Fengon E6 (2023, upscale electric SUV)
+- Junfeng EV (2022, electric sedan)
+- Kangdian EV (2024, electric crossover)
+
+#### Drako Motors:
+- GTE (2019, electric luxury sedan)
+- Dragon (2022, electric hyper-SUV)
+
+#### DS Automobiles:
+- DS 3 Crossback E-Tense (2020, compact electric crossover)
+- DS 7 Crossback E-Tense (2021, mid-size luxury electric SUV)
+- DS 9 E-Tense (planned for 2024, flagship luxury electric sedan)
+
+#### EdisonFuture:
+- EF1-T (2022, electric pickup truck)
+- EF1-V (2023, electric delivery van)
+
+#### Elaris:  
+- Finn (2021, compact electric city car)  
+- Beo (2021, electric SUV)  
+- Caro (2021, electric van)  
+- Dyo (2022, electric microcar)
+
+#### Enovate:
+- ME7 (2022, luxury electric sedan)
+- ME9 (2024, flagship electric sedan)
+
+#### Evergrande (Hengchi):
+- Hengchi 1 (2022, luxury electric sedan)
+- Hengchi 5 (2022, compact electric SUV)
+- Hengchi 3 (2023, mid-size electric SUV)
+- Hengchi 6 (planned for 2024, electric MPV)
+- Hengchi 7 (planned for 2024, electric luxury sedan)
+
+#### Evolute:  
+- i-Pro (2022, compact electric sedan)  
+- i-Joy (2022, electric crossover)  
+- i-Sky (2023, electric SUV)  
+- i-Van (planned for 2024, electric minivan)
+
+#### Exeed:
+- TX (2021, mid-size luxury SUV)
+- VX (2023, compact luxury SUV)
+
+#### Faraday Future:
+- FF 91 (2023, luxury electric SUV)
+- FF 81 (planned for 2024, mid-size electric SUV)
+- FF 71 (planned for 2025, compact electric SUV)
+
+#### Ferrari:
+- 812 Superfast (2017)
+- Portofino (2018)
+- Roma (2019)
+- SF90 Stradale (2020, plug-in hybrid)
+
+#### Fiat:
+- 500X (2016, updated)
+- Fullback (2016, pickup truck)
+- Tipo (new generation, 2016)
+
+#### Fisker:
+- Ocean (2023, electric SUV)
+- Pear (planned for 2024, compact electric car)
+- Ronin (planned for 2025, electric GT convertible)
+- Alaska (planned for 2025, electric pickup truck)
+
+#### Ford:
+- Fiesta (new generation, 2017)
+- Focus (new generation, 2018)
+- Puma (2019, crossover)
+- Kuga (new generation, 2020)
+- Explorer (2020, new generation)
+
+#### Foxtron:
+- Model C (2023, electric SUV)
+- Model E (2023, luxury electric sedan)
+- Model T (2023, electric bus)
+
+#### FREZe:
+- Nikrob (2021, compact electric car based on the Wuling Hongguang Mini EV)
+
+#### Geely:
+- Atlas (2016, compact SUV)
+- Binrui (2018, sedan)
+- Panda (2019, city car)
+- Emgrand 7 (2020, compact sedan)
+- Emgrand GT (2020, performance sedan)
+- Emgrand X7 (2020, mid-size SUV)
+- Icon (2020, compact crossover)
+- Okavango (2020, mid-size SUV)
+- Tugella (2021, coupe SUV)
+
+#### Genesis:
+- G70 (2017, luxury sedan)
+- GV80 (2020, luxury SUV)
+- GV70 (2021, compact luxury SUV)
+- GV60 (2022, electric crossover)
 
 #### Great Wall:
 - Poer (2019, pickup truck)
 - Tank 300 (2020, off-road SUV)
 - Tank 500 (2021, luxury SUV)
+
+#### Haima:
+- S5 (2017, conventional compact SUV)
+- E3 (2020, electric compact SUV)
+- E6 (2022, electric sedan)
+- 7X (2023, mid-size electric SUV)
+
+#### Haval:
+- H6 (new generation, 2017, compact SUV)
+- F7 (2018, compact SUV)
+- F7x (2019, coupe SUV)
+- Big Dog (2020, off-road SUV)
+- Dargo (2021, off-road SUV variant)
+- Jolion (2021, compact SUV)
+- Chulian (2021, crossover)
+
+#### HiPhi:  
+- HiPhi X (2020, luxury electric SUV with futuristic design)  
+- HiPhi Z (2022, high-performance electric sedan)  
+- HiPhi Y (2023, mid-size luxury electric SUV)  
+
+#### Honda:
+- CR-V (new generation, 2017)
+- Jazz (new generation, 2020)
+- HR-V (new generation, 2021)
+- Civic (new generation, 2021)
+
+#### Hongqi:
+- H5 (2017, executive sedan)
+- H9 (2020, luxury sedan)
+- E-HS9 (2020, full-size luxury electric SUV)
+- L5 (2022, ultra-luxury sedan)
+- S9 (2025, hybrid hypercar)
+
+#### Hyundai:
+- Ioniq (2016, hybrid/electric)
+- Kona (2017, crossover)
+- Palisade (2018, full-size SUV)
+- Venue (2019, subcompact SUV)
+- Staria (2021, multi-purpose vehicle)
+
+#### IM Motors:
+- IM L6 (2022, electric luxury sedan)
+- IM L7 (2023, flagship electric luxury sedan)
+
+#### Infiniti:
+- QX30 (2016, compact SUV)
+- Q50 (updated, 2017)
+- Q60 (2017)
+- QX50 (2018, redesigned)
+
+#### Isuzu:
+- MU-X (2017, mid-size SUV)
+- D-Max (new generation, 2020)
+
+#### JAC:
+- iEV6S (2020, electric SUV)
+- iEV7S (2021, electric crossover)
+- Refine E6 (2022, electric sedan)
+- Refine S4 (2021, compact electric SUV)
+- Refine S5 (2021, mid-size electric SUV)
+
+#### Jaguar:
+- XF (new generation, 2016)
+- E-Pace (2017, SUV)
+- I-Pace (2018, electric SUV)
+- F-Type (updated, 2020)
+
+#### Jeep:
+- Compass (new generation, 2017)
+- Grand Cherokee (new generation, 2021)
+- Wrangler (new generation, 2018)
+
+#### JMC:
+- Yuhu EV (2022, electric pickup truck)
+- EV6 (2023, electric SUV)
+- Yuhu Pickup (updated in 2023, conventional pickup truck)
+
+#### Karma Automotive:
+- Revero (updated in 2018, luxury plug-in hybrid sedan)
+- Revero GT (2020, luxury electric sedan with performance upgrades)
+
+#### Kia:
+- Niro (2016, hybrid)
+- Stinger (2017)
+- Ceed (new generation, 2018)
+- Seltos (2019)
+- Sorento (new generation, 2020)
+
+#### Koenigsegg:
+- Regera (2016, hybrid hypercar)
+- Jesko (2019)
+- Gemera (2020, 4-seater hybrid)
+
+#### Lamborghini:
+- Urus (2018, luxury SUV)
+- Sian (2020, hybrid supercar)
+- Countach LPI 800-4 (2021, hybrid tribute model)
+
+#### Lancia:
+- Ypsilon (updated, 2021)
+
+#### Land Rover:
+- Range Rover Velar (2017)
+- Defender (2020, new generation)
+- Discovery (2021, updated)
+
+#### Leapmotor:  
+- T03 (2020, compact electric city car)  
+- C11 (2021, mid-size electric SUV)  
+- C01 (2022, luxury electric sedan)
+
+#### Lexus:
+- UX (2018)
+- NX (new generation, 2021)
+
+#### Li Auto:
+- One (2019, range-extended electric SUV)
+- L9 (2022, full-size range-extended electric SUV)
+- L8 (2022, mid-size range-extended electric SUV)
+- L7 (2023, compact range-extended electric SUV)
+
+#### Lordstown Motors:
+- Endurance (2022, electric pickup truck)
+
+#### Lotus:
+- Evija (2019, electric hypercar)
+- Emira (2021, mid-engine sports car)
+
+#### Lucid:  
+- Air (2021, luxury electric sedan)  
+- Gravity (planned for 2024, luxury electric SUV)
+
+#### Mahindra:
+- KUV100 (2016, compact SUV)
+- Marazzo (2018, MPV)
+- XUV300 (2019, subcompact SUV)
+- Thar (new generation, 2020)
+- XUV700 (2021, mid-size SUV)
+
+#### Maserati:
+- Levante (2016, SUV)
+- Ghibli (updated, 2020)
+- MC20 (2020, sports car)
+
+#### Maxus:  
+- E Deliver 3 (2020, compact electric van)  
+- E Deliver 9 (2020, large electric van)  
+- MIFA 9 (2022, electric MPV)  
+- T90 EV (2022, electric pickup truck)
+
+#### Maybach:
+- S580 (2020, luxury sedan)
+- GLS 600 (2020, luxury SUV)
+- S680 (2021, flagship luxury sedan)
+
+#### Mazda:
+- CX-30 (2019)
+- CX-60 (2022, plug-in hybrid)
+
+#### McLaren:
+- 720S (2017)
+- Senna (2018)
+- GT (2019)
+- Speedtail (2019)
+- 765LT (2020)
+
+#### Mercedes-Benz:
+- GLB (2019)
+- EQC (2019, electric)
+- GLA (2020, new generation)
+- EQS (2021, electric luxury sedan)
 
 #### MG:
 - ZS (2017, compact SUV)
@@ -359,110 +472,28 @@ New car models added from 2016 to 2025.
 - Astor (2021, crossover)
 - Cyberster (2023, electric roadster)
 
-#### Tata Motors:
-- Hexa (2017, crossover SUV)
-- Nexon (2017, compact SUV)
-- Harrier (2019, mid-size SUV)
-- Altroz (2020, premium hatchback)
-- Punch (2021, micro-SUV)
+#### Mitsubishi:
+- Eclipse Cross (2017)
+- Pajero Sport (2019, updated)
+- Outlander (2021, new generation)
 
-#### Mahindra:
-- KUV100 (2016, compact SUV)
-- Marazzo (2018, MPV)
-- XUV300 (2019, subcompact SUV)
-- Thar (new generation, 2020)
-- XUV700 (2021, mid-size SUV)
+#### Mullen Automotive:
+- FIVE (2023, electric pickup truck)
+- MXE (planned for 2025, electric crossover)
 
-#### Proton:
-- X70 (2018, mid-size SUV)
-- X50 (2020, compact SUV)
+#### Neta Auto:
+- Neta N01 (2018, compact electric SUV)
+- Neta U (2019, mid-size electric SUV)
+- Neta V (2020, compact electric hatchback)
+- Neta S (2022, electric sedan)
+- Neta GT (2023, electric sports car)
+- Neta V-II (2025, updated version of Neta V with enhanced features)
+- Neta X (2025, smart electric SUV)
 
-#### Perodua:
-- Bezza (2016, compact sedan)
-- Aruz (2019, compact SUV)
-- Axia (new generation, 2023)
-
-#### Daihatsu:
-- Thor (2016, mini MPV)
-- Rocky (2019, compact SUV)
-- Altis (2021, hybrid sedan)
-
-#### Isuzu:
-- MU-X (2017, mid-size SUV)
-- D-Max (new generation, 2020)
-
-#### Maybach:
-- S580 (2020, luxury sedan)
-- GLS 600 (2020, luxury SUV)
-- S680 (2021, flagship luxury sedan)
-
-#### Lamborghini:
-- Urus (2018, luxury SUV)
-- Sian (2020, hybrid supercar)
-- Countach LPI 800-4 (2021, hybrid tribute model)
-
-#### Lotus:
-- Evija (2019, electric hypercar)
-- Emira (2021, mid-engine sports car)
-
-#### Rivian:
-- R1T (2021, electric pickup truck)
-- R1S (2022, electric SUV)
-
-#### Lucid:
-- Air (2021, luxury electric sedan)
-- Gravity (planned for 2024, luxury electric SUV)
-
-#### Polestar:
-- Polestar 1 (2017, hybrid coupe)
-- Polestar 2 (2020, electric sedan)
-- Polestar 3 (2023, electric SUV)
-- Polestar 4 (planned for 2024, electric SUV coupé)
-- Polestar 5 (planned for 2025, electric GT)
-- Polestar 6 (planned for 2026, electric roadster)
-
-#### Fisker:
-- Ocean (2023, electric SUV)
-- Pear (planned for 2024, compact electric car)
-- Ronin (planned for 2025, electric GT convertible)
-- Alaska (planned for 2025, electric pickup truck)
-
-#### Faraday Future:
-- FF 91 (2023, luxury electric SUV)
-- FF 81 (planned for 2024, mid-size electric SUV)
-- FF 71 (planned for 2025, compact electric SUV)
-
-#### VinFast:
-- VF 8 (2022, mid-size electric SUV)
-- VF 9 (2023, full-size electric SUV)
-- VF 6 (planned for 2024, compact electric SUV)
-- VF 7 (planned for 2024, electric SUV coupé)
-- VF 5 (planned for 2025, subcompact electric SUV)
-
-#### Xiaomi:
-- SU7 (2024, full-size electric sedan, performance-oriented)
-- MS11 (2024, electric sedan)
-- MX11 (planned for 2025, all-electric SUV)
-- MS12 (planned for 2025, electric SUV)
-- Kunlun (planned for 2026, range-extended electric SUV)
-
-#### Baojun:
-- E100 (2017, compact electric car)
-- E200 (2018, compact electric car)
-- RS-3 (2019, subcompact SUV)
-- E300 (2020, electric microcar)
-- KiWi EV (2021, stylish urban electric car)
-- RS-7 (2021, mid-size SUV)
-
-#### Wuling:
-- Hongguang Mini EV (2020, ultra-compact electric car)
-- Victory (2020, MPV)
-- Air EV (2022, compact electric car)
-- Alvez (2023, compact SUV)
-
-#### BYTON:
-- M-Byte (2018, electric SUV concept)
-- K-Byte (2019, electric sedan concept)
+#### Nikola:
+- Tre (2021, electric semi-truck)
+- Two (planned for 2024, hydrogen-electric semi-truck)
+- Badger (planned for 2024, electric pickup truck)
 
 #### NIO:
 - EP9 (2016, electric hypercar)
@@ -474,113 +505,19 @@ New car models added from 2016 to 2025.
 - ES7 (2022, mid-size electric SUV)
 - ES9 (planned for 2024, full-size electric SUV)
 
-#### XPeng:
-- G3 (2018, compact electric SUV)
-- P7 (2020, electric sedan)
-- P5 (2021, compact electric sedan)
-- G6 (2023, mid-size electric SUV)
-- P9 (planned for 2024, flagship electric sedan)
-- X9 (planned for 2025, electric MPV)
+#### Nissan:
+- Leaf (new generation, 2017)
+- Juke (new generation, 2019)
+- Qashqai (new generation, 2021)
+- X-Trail (new generation, 2022)
 
-#### Li Auto:
-- One (2019, range-extended electric SUV)
-- L9 (2022, full-size range-extended electric SUV)
-- L8 (2022, mid-size range-extended electric SUV)
-- L7 (2023, compact range-extended electric SUV)
-
-#### Zeekr:
-- 001 (2021, electric shooting brake)
-- 009 (2022, electric luxury MPV)
-- 003 (planned for 2024, compact electric SUV)
-
-#### Lucid:  
-- Air (2021, luxury electric sedan)  
-- Gravity (planned for 2024, luxury electric SUV)
-
-#### EdisonFuture:
-- EF1-T (2022, electric pickup truck)
-- EF1-V (2023, electric delivery van)
-
-#### Lordstown Motors:
-- Endurance (2022, electric pickup truck)
-
-#### Fisker:
-- Ocean (2023, electric SUV)
-- Pear (planned for 2024, compact electric car)
-- Ronin (planned for 2025, electric GT convertible)
-- Alaska (planned for 2025, electric pickup truck)
-
-#### Drako Motors:
-- GTE (2019, electric luxury sedan)
-- Dragon (2022, electric hyper-SUV)
-
-#### Genesis:
-- G70 (2017, luxury sedan)
-- GV80 (2020, luxury SUV)
-- GV70 (2021, compact luxury SUV)
-- GV60 (2022, electric crossover)
-
-#### Rimac:
-- Concept One (2016, electric hypercar)
-- Nevera (2021, electric hypercar)
-
-#### Nikola:
-- Tre (2021, electric semi-truck)
-- Two (planned for 2024, hydrogen-electric semi-truck)
-- Badger (planned for 2024, electric pickup truck)
-
-#### Aehra:
-- SUV (planned for 2025, luxury electric SUV)
-- Sedan (planned for 2026, luxury electric sedan)
-
-#### Voyah:
-- Free (2021, luxury electric SUV)
-- Dreamer (2022, luxury electric MPV)
-
-#### Seres:
-- 3 (2020, compact electric SUV)
-- 5 (2021, mid-size electric SUV)
-- 7 (planned for 2024, luxury electric SUV)
-
-#### Hongqi:
-- H5 (2017, executive sedan)
-- H9 (2020, luxury sedan)
-- E-HS9 (2020, full-size luxury electric SUV)
-- L5 (2022, ultra-luxury sedan)
-- S9 (2025, hybrid hypercar)
-
-#### Arcfox:
-- Alpha T (2020, mid-size electric SUV)
-- Alpha S (2021, luxury electric sedan)
-
-#### HiPhi:  
-- HiPhi X (2020, luxury electric SUV with futuristic design)  
-- HiPhi Z (2022, high-performance electric sedan)  
-- HiPhi Y (2023, mid-size luxury electric SUV)  
-
-#### Neta:
-- Neta V (2020, compact electric SUV)
-- Neta U (2020, mid-size electric SUV)
-- Neta S (2022, electric sedan)
-
-#### Evergrande (Hengchi):
-- Hengchi 1 (2022, luxury electric sedan)
-- Hengchi 5 (2022, compact electric SUV)
-- Hengchi 3 (2023, mid-size electric SUV)
-- Hengchi 6 (planned for 2024, electric MPV)
-- Hengchi 7 (planned for 2024, electric luxury sedan)
-
-#### Denza:
-- Denza X (2019, electric SUV)
-- Denza D9 (2022, luxury electric MPV)
-- Denza N7 (2023, electric SUV coupe)
-
-#### Aiways:
-- U5 (2020, electric mid-size SUV)
-- U6 (2021, electric coupe SUV)
-
-#### FREZe:
-- Nikrob (2021, compact electric car based on the Wuling Hongguang Mini EV)
+#### Opel:
+- Crossland (2017)
+- Grandland (2017, updated 2021)
+- Mokka (2020, new generation)
+- Mokka-e (2020, electric SUV)
+- Zafira Life (2020, people carrier)
+- Astra Electric (2023, electric version)
 
 #### Ora:
 - Black Cat (2019, compact electric car)
@@ -588,55 +525,50 @@ New car models added from 2016 to 2025.
 - Lightning Cat (2022, electric sedan)
 - Punk Cat (planned for 2024, retro-inspired electric hatchback)
 
-#### Foxtron:
-- Model C (2023, electric SUV)
-- Model E (2023, luxury electric sedan)
-- Model T (2023, electric bus)
+#### Pagani:
+- Huayra BC (2016)
+- Huayra Roadster (2017)
+- Huayra Imola (2020)
 
-#### Rezvani:
-- Tank (2017, luxury tactical SUV)
-- Beast (updated 2018, lightweight sports car)
-- Vengeance (2023, armored luxury SUV)
+#### Perodua:
+- Bezza (2016, compact sedan)
+- Aruz (2019, compact SUV)
+- Axia (new generation, 2023)
 
-#### Elaris:  
-- Finn (2021, compact electric city car)  
-- Beo (2021, electric SUV)  
-- Caro (2021, electric van)  
-- Dyo (2022, electric microcar)
+#### Peugeot:
+- 208 (new generation 2019)
+- e-208 (2019, electric)
+- e-2008 (2019, electric SUV)
+- 3008 Hybrid (2019, plug-in hybrid)
+- 508 PSE (2020, high-performance model)
+- 308 Hybrid (2021)
+- 408 (2022, SUV-Coupé)
+- 5008 Hybrid (2022)
 
 #### Piech Automotive:  
 - Mark Zero (planned for 2024, electric sports car)  
 - GT (planned for 2025, grand tourer EV)
 
-#### Thunder Power:  
-- Sedan (planned for 2024, luxury electric sedan)  
-- SUV (planned for 2025, electric SUV)
+#### Polestar:
+- Polestar 1 (2017, hybrid coupe)
+- Polestar 2 (2020, electric sedan)
+- Polestar 3 (2023, electric SUV)
+- Polestar 4 (planned for 2024, electric SUV coupé)
+- Polestar 5 (planned for 2025, electric GT)
+- Polestar 6 (planned for 2026, electric roadster)
 
-#### Evolute:  
-- i-Pro (2022, compact electric sedan)  
-- i-Joy (2022, electric crossover)  
-- i-Sky (2023, electric SUV)  
-- i-Van (planned for 2024, electric minivan)
+#### Porsche:
+- Cayenne (2018, updated)
+- Macan (2016, updated)
+- Taycan (2019, electric)
 
-#### Skywell:  
-- ET5 (2021, mid-size electric SUV)
+#### Proton:
+- X70 (2018, mid-size SUV)
+- X50 (2020, compact SUV)
 
-#### Maxus:  
-- E Deliver 3 (2020, compact electric van)  
-- E Deliver 9 (2020, large electric van)  
-- MIFA 9 (2022, electric MPV)  
-- T90 EV (2022, electric pickup truck)
-
-#### Leapmotor:  
-- T03 (2020, compact electric city car)  
-- C11 (2021, mid-size electric SUV)  
-- C01 (2022, luxury electric sedan)
-
-#### Weltmeister (WM Motor):  
-- EX5 (2018, compact electric SUV)  
-- EX6 Plus (2019, mid-size electric SUV)  
-- W6 (2021, intelligent electric SUV with autonomous driving features)  
-- E5 (2022, electric sedan)
+#### Qoros:
+- Qoros 3 (2023, compact premium sedan/crossover variant with advanced connectivity)
+- Qoros 9 (2023, flagship electric/premium model)
 
 #### Ram:
 - 2500 (updated generation, 2018, heavy-duty pickup)
@@ -645,52 +577,103 @@ New car models added from 2016 to 2025.
 - ProMaster City (updated in 2020, compact commercial van)
 - 1500 TRX (2021, high-performance pickup truck)
 
-#### Geely:
-- Binrui (2018, sedan)
-- Panda (2019, city car)
-- Emgrand 7 (2020, compact sedan)
-- Emgrand GT (2020, performance sedan)
-- Emgrand X7 (2020, mid-size SUV)
-- Icon (2020, compact crossover)
-- Okavango (2020, mid-size SUV)
-- Tugella (2021, coupe SUV)
+#### Renault:
+- Triber (2019)
+- Arkana (2020)
+- Megane E-Tech (2021, electric)
+- Kiger (2021, compact SUV)
+- Austral (2022)
 
-#### Voyah:
-- Dreamer (2022, luxury electric MPV)
-- Free (2021, luxury electric SUV)
-- Passion (2024, convertible electric sports car)
-- Pro (2024, premium electric sedan)
+#### Rezvani:
+- Tank (2017, luxury tactical SUV)
+- Beast (updated 2018, lightweight sports car)
+- Vengeance (2023, armored luxury SUV)
 
-#### Changan:
-- UNI-E (2020, electric sedan)
-- UNI-K (2021, mid-size electric SUV)
-- UNI-T (2022, electric coupe)
-- UNI-V (2024, premium electric sedan)
+#### Rimac:
+- Concept One (2016, electric hypercar)
+- Nevera (2021, electric hypercar)
 
-#### JAC:
-- iEV6S (2020, electric SUV)
-- iEV7S (2021, electric crossover)
-- Refine E6 (2022, electric sedan)
-- Refine S4 (2021, compact electric SUV)
-- Refine S5 (2021, mid-size electric SUV)
+#### Rising Auto:
+- R7 (2022, mid-size electric crossover)
+- R9 (2023, flagship electric SUV)
+- R3 (planned for 2025, compact electric vehicle)
 
-#### Dongfeng:
-- Fengon E3 (2021, compact electric SUV)
-- Fengon E5 (2022, mid-size electric SUV)
-- Fengon E6 (2023, upscale electric SUV)
-- Junfeng EV (2022, electric sedan)
-- Kangdian EV (2024, electric crossover)
-
-#### BAIC:
-- EC5 (2020, compact electric SUV)
-- EU5 (2021, mid-size electric sedan)
-- EX360 (2022, electric crossover)
-- EU-X (2024, premium electric sedan)
+#### Rivian:
+- R1T (2021, electric pickup truck)
+- R1S (2022, electric SUV)
 
 #### Roewe:
 - Ei5 (2019, electric MPV)
 - RX6 (2022, mid-size SUV with advanced electrification options)
 - i6 (2024, premium electric sedan)
+
+#### Rolls-Royce:
+- Phantom (new generation, 2017)
+- Cullinan (2018, SUV)
+- Ghost (new generation, 2020)
+
+#### SEAT:
+- Ateca (2016)
+- Arona (2017)
+- Tarraco (2018)
+
+#### Seres:
+- 3 (2020, compact electric SUV)
+- 5 (2021, mid-size electric SUV)
+- 7 (planned for 2024, luxury electric SUV)
+
+#### Singulato:
+- iS6 (2021, electric mid-size SUV)
+- iS7 (2023, premium electric SUV)
+
+#### Škoda:
+- Karoq (2017)
+- Kodiaq (2016)
+- Enyaq (2020, electric)
+
+#### Skywell:  
+- ET5 (2021, mid-size electric SUV)
+
+#### Smart:
+- EQ ForTwo (2019, electric city car)
+- EQ ForFour (2019, electric compact car)
+- #1 (2022, electric crossover)
+- #3 (2023, electric SUV)
+
+#### Subaru:
+- XV (2017, new generation)
+- Levorg (2020, new generation)
+- BRZ (2021, new generation)
+- WRX (2022, performance sedan)
+
+#### Suzuki:
+- Ignis (2016, compact crossover)
+- Swift (new generation, 2017)
+- Jimny (new generation, 2018)
+- S-Cross (new generation, 2021)
+- Grand Vitara (2022, mid-size SUV)
+
+#### Tata Motors:
+- Hexa (2017, crossover SUV)
+- Nexon (2017, compact SUV)
+- Harrier (2019, mid-size SUV)
+- Altroz (2020, premium hatchback)
+- Punch (2021, micro-SUV)
+
+#### Tesla:
+- Model 3 (2017)
+- Model Y (2020)
+- Cybertruck (2024)
+- Roadster (planned for 2025)
+
+#### Thunder Power:  
+- Sedan (planned for 2024, luxury electric sedan)  
+- SUV (planned for 2025, electric SUV)
+
+#### Toyota:
+- Yaris Cross (2020)
+- Supra (2019, revived model)
+- Highlander (2020, new generation)
 
 #### Trumpchi:
 - GE3 (2019, compact electric SUV)
@@ -699,83 +682,68 @@ New car models added from 2016 to 2025.
 - GS8 (updated in 2022, full-size SUV with hybrid/electric variants)
 - GE3 Plus (2024, enhanced compact electric SUV)
 
-#### Enovate:
-- ME7 (2022, luxury electric sedan)
-- ME9 (2024, flagship electric sedan)
+#### VinFast:
+- VF 8 (2022, mid-size electric SUV)
+- VF 9 (2023, full-size electric SUV)
+- VF 6 (planned for 2024, compact electric SUV)
+- VF 7 (planned for 2024, electric SUV coupé)
+- VF 5 (planned for 2025, subcompact electric SUV)
 
-#### Qoros:
-- Qoros 3 (2023, compact premium sedan/crossover variant with advanced connectivity)
-- Qoros 9 (2023, flagship electric/premium model)
+#### Volkswagen:
+- ID.3 (2020, battery electric compact hatchback)
+- ID.4 (2021, battery electric SUV)
+- ID.5 (2021, battery electric SUV-coupé)
+- ID. Buzz (2022, battery electric reinterpretation of the classic microbus)
+- Tera (2024, concept electric vehicle aimed at a new segment)
 
-#### Aion:
-- Aion V (2021, electric SUV)
-- Aion S (2019, compact electric sedan)
-- Aion LX (2024, premium electric SUV)
+#### Volvo:
+- XC40 (2017)
+- V60 (2018, new generation)
+- S60 (2018, new generation)
 
-#### Rising Auto:
-- R7 (2022, mid-size electric crossover)
-- R9 (2023, flagship electric SUV)
-- R3 (planned for 2025, compact electric vehicle)
+#### Voyah:
+- Dreamer (2022, luxury electric MPV)
+- Free (2021, luxury electric SUV)
+- Passion (2024, convertible electric sports car)
+- Pro (2024, premium electric sedan)
 
-#### Bestune:
-- B70 (updated in 2020, compact sedan)
-- E01 (2021, electric sedan)
-- T77 (2022, electric SUV)
-- T99 (2024, flagship electric SUV)
+#### Weltmeister (WM Motor):  
+- EX5 (2018, compact electric SUV)  
+- EX6 Plus (2019, mid-size electric SUV)  
+- W6 (2021, intelligent electric SUV with autonomous driving features)  
+- E5 (2022, electric sedan)
 
-#### Singulato:
-- iS6 (2021, electric mid-size SUV)
-- iS7 (2023, premium electric SUV)
+#### Wuling:
+- Hongguang Mini EV (2020, ultra-compact electric car)
+- Victory (2020, MPV)
+- Air EV (2022, compact electric car)
+- Alvez (2023, compact SUV)
 
-#### Leapmotor:
-- T03 (2020, compact electric city car)
-- C11 (2021, mid-size electric SUV)
-- C01 (2022, luxury electric sedan)
+#### Xiaomi:
+- SU7 (2024, full-size electric sedan, performance-oriented)
+- MS11 (2024, electric sedan)
+- MX11 (planned for 2025, all-electric SUV)
+- MS12 (planned for 2025, electric SUV)
+- Kunlun (planned for 2026, range-extended electric SUV)
 
-#### DS Automobiles:
-- DS 3 Crossback E-Tense (2020, compact electric crossover)
-- DS 7 Crossback E-Tense (2021, mid-size luxury electric SUV)
-- DS 9 E-Tense (planned for 2024, flagship luxury electric sedan)
+#### XPeng:
+- G3 (2018, compact electric SUV)
+- P7 (2020, electric sedan)
+- P5 (2021, compact electric sedan)
+- G6 (2023, mid-size electric SUV)
+- P9 (planned for 2024, flagship electric sedan)
+- X9 (planned for 2025, electric MPV)
 
-#### IM Motors:
-- IM L6 (2022, electric luxury sedan)
-- IM L7 (2023, flagship electric luxury sedan)
+#### Zeekr:
+- 001 (2021, electric shooting brake)
+- 009 (2022, electric luxury MPV)
+- 003 (planned for 2024, compact electric SUV)
 
-#### Neta Auto:
-- Neta N01 (2018, compact electric SUV)
-- Neta U (2019, mid-size electric SUV)
-- Neta V (2020, compact electric hatchback)
-- Neta S (2022, electric sedan)
-- Neta GT (2023, electric sports car)
-- Neta V-II (2025, updated version of Neta V with enhanced features)
-- Neta X (2025, smart electric SUV)
-
-#### JMC:
-- Yuhu EV (2022, electric pickup truck)
-- EV6 (2023, electric SUV)
-- Yuhu Pickup (updated in 2023, conventional pickup truck)
-
-#### Haima:
-- S5 (2017, conventional compact SUV)
-- E3 (2020, electric compact SUV)
-- E6 (2022, electric sedan)
-- 7X (2023, mid-size electric SUV)
-
-#### Mullen Automotive:
-- FIVE (2023, electric pickup truck)
-- MXE (planned for 2025, electric crossover)
-
-#### Exeed:
-- TX (2021, mid-size luxury SUV)
-- VX (2023, compact luxury SUV)
-
-#### Karma Automotive:
-- Revero (updated in 2018, luxury plug-in hybrid sedan)
-- Revero GT (2020, luxury electric sedan with performance upgrades)
-
-#### AITO:
-- M7 (2022, premium smart electric SUV)
-- M5 (2023, smart electric sedan)
+#### Zotye:
+- T300 (2017, compact SUV)
+- T700 (2017, luxury SUV)
+- T500 (2018, mid-size SUV)
+- T800 (2018, full-size SUV)
 
 ## License
 
