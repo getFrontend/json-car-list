@@ -1,10 +1,17 @@
 # Car Brands and Models List
 
-This repository contains a comprehensive **JSON dataset** of car brands and their respective models. The data is well-structured and covers a wide range of well-known brands, including but not limited to **Honda, BMW, Lexus, Mazda, Toyota, Volkswagen, Mercedes-Benz**, and many more. The list is intended to provide developers with an easy-to-use JSON string format that can be integrated into various projects such as car-related apps, websites, or APIs.
+This repository contains a comprehensive **JSON dataset** of car brands and their respective models. The data is well-structured and covers a wide range of well-known brands, including but not limited to **Tesla, Toyota, BMW, Mercedes-Benz, Audi, Ford, Hyundai, Volkswagen, Honda, Kia, Chevrolet, Porsche, Lexus, Volvo, Nissan, Rivian, Lucid, Polestar, BYD, NIO, Cadillac, Mazda, Subaru, Genesis, Jeep, Ferrari, Lamborghini, McLaren, VinFast, XPeng**, and many more. The list is intended to provide developers with an easy-to-use JSON string format that can be integrated into various projects such as car-related apps, websites, or APIs.
 
 > 💡This repository contains an updated list (the old version was Last Updated: 12/12/2016) and is current as of March 2025.
 
 <img src="./assets/images/json-car-list-poster.png" alt="Car Brands and Models List by Sergey" />
+
+## 🚗 Summary
+
+- Total Car Brands : 111
+- Total Car Models : 1,798
+
+The JSON file contains a comprehensive collection of car brands from around the world, including traditional manufacturers like Toyota, BMW, and Ford, as well as newer electric vehicle manufacturers like Tesla, Rivian, and NIO. Each brand has an associated array of models, ranging from just a few models for some brands to dozens for larger manufacturers.
 
 ## Features
 
@@ -34,7 +41,7 @@ Contributions are welcome! If you'd like to add more brands or update existing o
 
 ## Updates
 
-New car models added from 2016 to September 2024.
+New car models added from 2016 to 2025.
 
 #### SEAT:
 
