@@ -269,7 +269,14 @@
   },
   {
     "brand": "Leapmotor",
-    "models": ["C01", "C11", "T03"]
+    "models": [
+      "B10",
+      "C01",
+      "C10",
+      "C11",
+      "C16",
+      "T03"
+    ]
   },
   {
     "brand": "Lexus",

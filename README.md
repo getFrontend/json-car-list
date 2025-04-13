@@ -404,10 +404,13 @@ New car models added from 2016 to 2025.
 - Defender (2020, new generation)
 - Discovery (2021, updated)
 
-#### Leapmotor:  
-- T03 (2020, compact electric city car)  
-- C11 (2021, mid-size electric SUV)  
-- C01 (2022, luxury electric sedan)
+#### Leapmotor:
+- T03 (2020, compact electric city hatchback)
+- C11 (2021, mid-size electric SUV)
+- C01 (2022, premium electric sedan)
+- C10 (2024, global electric SUV)
+- C16 (2024, large electric SUV)
+- B10 (2025, compact electric crossover SUV)
 
 #### Lexus:
 - UX (2018)
