@@ -287,6 +287,13 @@
     "models": ["L7", "L8", "L9", "One"]
   },
   {
+    "brand": "Lightyear",
+    "models": [
+      "Lightyear 0",
+      "Lightyear 2"
+    ]
+  },
+  {
     "brand": "Lordstown Motors",
     "models": ["Endurance"]
   },

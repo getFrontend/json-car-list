@@ -422,6 +422,10 @@ New car models added from 2016 to 2025.
 - L8 (2022, mid-size range-extended electric SUV)
 - L7 (2023, compact range-extended electric SUV)
 
+#### Lightyear:
+- Lightyear 0 (2019, concept solar EV)
+- Lightyear 2 (2023, production solar EV)
+
 #### Lordstown Motors:
 - Endurance (2022, electric pickup truck)
 
