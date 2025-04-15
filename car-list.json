@@ -354,6 +354,13 @@
     "models": ["GT", "N01", "S", "U", "V", "V-II", "X"]
   },
   {
+    "brand": "NEVS",
+    "models": [
+      "NEVS 3",
+      "NEVS 9"
+    ]
+  },  
+  {
     "brand": "Nikola",
     "models": ["Badger", "Tre", "Two"]
   },

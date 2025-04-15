@@ -503,6 +503,10 @@ New car models added from 2016 to 2025.
 - Neta V-II (2025, updated version of Neta V with enhanced features)
 - Neta X (2025, smart electric SUV)
 
+#### NEVS:
+- NEVS 9 (2022, electric sedan)
+- NEVS 3 (planned for 2025, compact electric hatchback)
+
 #### Nikola:
 - Tre (2021, electric semi-truck)
 - Two (planned for 2024, hydrogen-electric semi-truck)
