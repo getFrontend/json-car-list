@@ -28,6 +28,12 @@
     "models": ["Alpha S", "Alpha T"]
   },
   {
+    "brand": "Aptera",
+    "models": [
+      "Aptera Solar EV"
+    ]
+  },
+  {
     "brand": "Aston Martin",
     "models": ["DB11", "DB9", "DBS", "Rapide", "V12 Vanquish", "V8 Vantage", "Vanquish", "Vantage", "Virage"]
   },

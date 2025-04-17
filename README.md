@@ -80,6 +80,9 @@ New car models added from 2016 to 2025.
 - Alpha T (2020, mid-size electric SUV)
 - Alpha S (2021, luxury electric sedan)
 
+#### Aptera:
+- Aptera Solar EV (planned for late 2025, three‑wheeled solar electric vehicle)
+
 #### Aston Martin:
 - DB11 (2016)
 - Vantage (new generation, 2018)
