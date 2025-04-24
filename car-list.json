@@ -312,6 +312,21 @@
     "models": ["Air", "Gravity"]
   },
   {
+    "brand": "Lynk & Co",
+    "models": [
+      "01",
+      "03",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "Z10",
+      "Z20",
+      "900"
+    ]
+  },  
+  {
     "brand": "Mahindra",
     "models": ["Bolero", "KUV100", "Marazzo", "Scorpio", "Thar", "TUV300", "XUV300", "XUV500", "XUV700"]
   },

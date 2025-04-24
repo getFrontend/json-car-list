@@ -440,6 +440,18 @@ New car models added from 2016 to 2025.
 - Air (2021, luxury electric sedan)  
 - Gravity (planned for 2024, luxury electric SUV)
 
+#### Lynk & Co:
+- 01 (2017, compact SUV, ICE/PHEV)
+- 03 (2018, compact sedan, ICE/PHEV)
+- 05 (2019, compact coupe-SUV)
+- 06 (2020, subcompact SUV, ICE/PHEV)
+- 08 (2023, mid-size PHEV SUV)
+- 09 (2021, mid-size SUV, ICE/PHEV)
+- 07 (2024, mid-size PHEV sedan)
+- Z10 (2024, full-size BEV/PHEV sedan)
+- Z20 (2024, compact BEV SUV)
+- 900 (April 28 2025, full-size PHEV SUV)
+
 #### Mahindra:
 - KUV100 (2016, compact SUV)
 - Marazzo (2018, MPV)
