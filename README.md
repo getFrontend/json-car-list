@@ -90,6 +90,7 @@ New car models added from 2016 to 2025.
 
 #### Audi:
 - Q4 e-tron (2021, electric SUV)
+- E5 (2025, compact executive electric estate on Advanced Digitized Platform)
 
 #### BAIC:
 - EC5 (2020, compact electric SUV)
