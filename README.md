@@ -697,6 +697,7 @@ New car models added from 2016 to 2025.
 - Model 3 (2017)
 - Model Y (2020)
 - Cybertruck (2024)
+- Cybercab (June 2025, fully autonomous robotaxi)
 - Roadster (planned for 2025)
 
 #### Thunder Power:  
